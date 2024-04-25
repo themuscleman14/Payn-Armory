@@ -1,0 +1,5 @@
+title:This is a compiled collection of god/recommended rolls from Payn's Armory.
+description:Thanks to Payn Senpai.
+
+// Tusk of the boar
+dimwishlist:item=1218113510&perks=981914802,2822142346,2039302152,2396489472,2120661319
