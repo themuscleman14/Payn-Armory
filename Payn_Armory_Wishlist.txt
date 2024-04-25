@@ -2,5 +2,9 @@ title:This is a compiled collection of god/recommended rolls from Payn's Armory.
 description:Thanks to Payn Senpai.
 
 // Tusk of the Boar
-//notes: PVE Strand boom
-dimwishlist:item=1218113510&perks=981914802,2822142346,2039302152,2396489472,2120661319#notes:pve
+//notes: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf.
+dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472,2120661319
+
+// Riiswalker
+//notes: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column.
+dimwishlist:item=1764868900&perks=4090651448,3142289711,2450788523,47981717
