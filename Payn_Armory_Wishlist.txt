@@ -2,24 +2,24 @@ title:This is a compiled collection of god/recommended rolls from Payn's Armory.
 description:Thanks to Payn Senpai.
 
 // Tusk of the Boar
-//notes: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf.
+//notes: Payn: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf.
 dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472,2120661319
 
 // Riiswalker
-//notes: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column.
+//notes: Payn: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column.
 dimwishlist:item=1764868900&perks=4090651448,3142289711,2450788523,47981717
 
 // Multimach CCX
-//notes: PVE This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it.
+//notes: Payn: PVE This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it.
 dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,3891536761,2120661319
 
-//notes: PVP You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them.
+//notes: Payn: PVP You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them.
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761,2120661319
 dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,3891536761,2120661319
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1015611457,2120661319
 
 //Lethal Abundance
-//notes: PvE: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good.
+//notes: Payn: PvE: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good.
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,95528736
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,365154968
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,831391274
@@ -27,7 +27,7 @@ dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,365154968
 dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,831391274
 dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,95528736
 
-//notes: PvP: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second. 
+//notes: Payn: PvP: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second. 
 dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,365154968
 dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,1890422124
 dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,95528736
