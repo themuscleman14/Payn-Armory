@@ -395,5 +395,109 @@ dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
 dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
 dimwishlist:item=3612338554&perks=1840239774,3142289711,3978468247,957782887
 
+// Supercluster - Supercluster - Payn (PvE) (pve)
+//notes: Payn: I'm not huge on this gun. I would use it for its Strand synergy. tags:pve
+dimwishlist:item=92459755&perks=4090651448,791862061,3422796781,102912326
+
+
+// Supercluster - Supercluster - Payn (PvP) (pvp)
+//notes: Payn: For PvP, it might actually be a bit better. It is a slug shotty with the rare high handling and high range. Usually you give up one for the other. That alone could make it useful. Perks aren;t bad either. I would run it like this. tags:pvp
+dimwishlist:item=92459755&perks=3250034553,3142289711,4071163871,2451262963
+
+
+// Subjunctive - Subjunctive - Payn (pve) (pve)
+//notes: Payn: This guy is a great gun for those who didn't craft the Ikelos SMG or they really like 900's more than 750's. I actually might be partial to this but I don't know if it is worth a vault slot if you have Ikelos tbh. It can get damage perks like One For All and Tricorn instead of Voltshot... but why??? tags:pve
+dimwishlist:item=1447836603&perks=1482024992,106909392,1409206216,1720528630
+
+
+// Doomed Petitioner - Doomed Petitioner - Payn (god-pve) (god-pve)
+//notes: Payn: There are a couple of ways to go on this. If you want a DPS roll, go with either Ambitious Assassin or Reconstruction in the first slot and Surrounded or Precision instrument in the second. I prefer Surrounded but that is situational. tags:god-pve
+dimwishlist:item=1501688142&perks=1840239774,689005463,1523832109,3708227201
+
+
+// Doomed Petitioner - Doomed Petitioner - Payn (pve) (pve)
+//notes: Payn: There are a couple of ways to go on this. If you want a DPS roll, go with either Ambitious Assassin or Reconstruction in the first slot and Surrounded or Precision instrument in the second. I prefer Surrounded but that is situational. tags:pve
+dimwishlist:item=1501688142&perks=1840239774,1687452232,1523832109,3708227201
+dimwishlist:item=1501688142&perks=1840239774,1687452232,1523832109,555281244
+dimwishlist:item=1501688142&perks=1840239774,1687452232,968510818,3708227201
+dimwishlist:item=1501688142&perks=1840239774,1687452232,968510818,555281244
+
+
+// Imperative - Imperative - Payn (god-pve) (god-pve)
+//notes: Payn: There is one thing that sets this apart from other scouts, its ability to roll Demo and Kinetic Tremors. No other roll should be kept if you are a D2 vet. tags:god-pve
+dimwishlist:item=2045811635&perks=4090651448,106909392,1906147653,1549370717
+
+
+// Imperative - Imperative - Payn (pvp) (pvp)
+//notes: Payn: If you really like this gun for PvP, here you go tags:pvp
+dimwishlist:item=2045811635&perks=4090651448,3177308360,2938480696,64866129,19542588
+
+
+// Scatter Signal - Scatter Signal - Payn (god-pve) (god-pve)
+//notes: Payn: This is probably the best craftable for the season. It is very good in both PvE and PvP, I will be crafting one of each. It has the new perk Slice in the first column which is very good. You could also go Overflow here but Slice is better. In the second column, Controlled Burst is the way to go for DPS. 
+Just as a note, Bungie made a change to fusions recently that charge time master works and mods no longer effect damage. I think there is still a visual bug on the stats bar but it doesn't actually do less damage. This basically means that you want a charge time master work on all fusions for PvE. tags:god-pve
+dimwishlist:item=2558925366&perks=1482024992,3868766766,3422796781,2037312142
+
+
+// Scatter Signal - Scatter Signal - Payn (god-pvp) (god-pvp)
+//notes: Payn: Stay with me now, the combo of Perpetual Motion and Over Under is fantastic for PvP. Because of Bolt to kill, Rapid Fires struggle with Void Overshield and Woven Mail buffs. They cannot one bang either one. Its mathematically Impossible. Other archtypes struggle as well needing all their bolts to land (Except High Impacts). Scatter Signal changes that narrative with Over Under. Here is how you wanna set it up tags:god-pvp
+dimwishlist:item=2558925366&perks=1482024992,2969185026,2014892510,183938251
+
+
+// Scalar Potential - Scalar Potential - Payn (pve) (pve)
+//notes: Payn: In reality, Oversoul Edict from the Crota Raid beats this out by miles. If you can't raid this is a poor man's version since there is no VoltShot tags:pve
+dimwishlist:item=2563668388&perks=839105230,106909392,1942880504,4290541820
+
+
+// Scalar Potential - Scalar Potential - Payn (pvp) (pvp)
+//notes: Payn: This is a little more interesting. It can compete with the other Rapid Fire Arc Pulses but does come in a bit lower on the stats. If you have another, I don't see why you'd give up another Rapid Fire for this one.  tags:pvp
+dimwishlist:item=2563668388&perks=839105230,3142289711,3619207468,460017080
+
+
+// Optative - Optative - Payn (pve) (pve)
+//notes: Payn: This is so far overshadowed by the Word of Crota that I don't know why I'm even taking the time to do this. Both are void. Both are Rapid Fires. Go get Word of Crota. But if you are stubborn or haven't gotten a good roll Word go with either Repulsor Brace or Demo in the first column and either Tricorn or Kill Clip in the second: tags:pve
+dimwishlist:item=2817683783&perks=4090651448,106909392,776531651,2610012052
+dimwishlist:item=2817683783&perks=4090651448,106909392,776531651,1015611457
+dimwishlist:item=2817683783&perks=4090651448,106909392,3523296417,2610012052
+dimwishlist:item=2817683783&perks=4090651448,106909392,3523296417,1015611457
+
+
+// Optative - Optative - Payn (pvp) (pvp)
+//notes: Payn: Again, Word is better. tags:pvp
+dimwishlist:item=2817683783&perks=4090651448,3142289711,247725512,1015611457
+
+
+// Adhortative - Adhortative - Payn (god-pve) (god-pve)
+//notes: Payn: This was one of my favorite pulses from that time period. It is better now with beefed up perks. In the first column you have Feeding Frenzy, Shoot to Loot, Heal Clip or Attrition Orbs. Interestingly, it is the only gun that has Attrition Orbs in the first column. In my opinion, the perk isn't worth it in the second column but is very intriguing in the first. In the second column, you have Disruption Break, Tricorn, Harmony, Incandescent... Take your pick for your build. I will be crafting: tags:god-pve
+dimwishlist:item=2993554824&perks=839105230,1087426260,984655331,2675184851
+
+
+// Adhortative - Adhortative - Payn (pve) (pve)
+//notes: Payn: This was one of my favorite pulses from that time period. It is better now with beefed up perks. In the first column you have Feeding Frenzy, Shoot to Loot, Heal Clip or Attrition Orbs. Interestingly, it is the only gun that has Attrition Orbs in the first column. In my opinion, the perk isn't worth it in the second column but is very intriguing in the first. In the second column, you have Disruption Break, Tricorn, Harmony, Incandescent... Take your pick for your build. tags:pve
+dimwishlist:item=2993554824&perks=839105230,1087426260,243981275,1683379515
+dimwishlist:item=2993554824&perks=839105230,1087426260,243981275,2610012052
+dimwishlist:item=2993554824&perks=839105230,1087426260,243981275,438098033
+dimwishlist:item=2993554824&perks=839105230,1087426260,243981275,4293542123
+
+
+// Appetence - Appetence - Payn (god-pve) (god-pve)
+//notes: Payn: The first legendary stasis trace rifle has some banger perks. This is one that is worth crafting. In the first column you have overflow, demo, enlightened action. In the second column you have Headstone, Killing Tally, One For all, Wellspring. Craft to your build. Stasis abilities are slow on the recharge and so a Demo/WellSpring roll would be great. Overflow and Killing Tally go well together for an add clear machine. I'm going like this since I love weapon/subclass synergy. tags:god-pve
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,124408337
+
+
+// Appetence - Appetence - Payn (pve) (pve)
+//notes: Payn: The first legendary stasis trace rifle has some banger perks. This is one that is worth crafting. In the first column you have overflow, demo, enlightened action. In the second column you have Headstone, Killing Tally, One For all, Wellspring. Craft to your build. Stasis abilities are slow on the recharge and so a Demo/WellSpring roll would be great. Overflow and Killing Tally go well together for an add clear machine.  tags:pve
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,4049631843
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,124408337
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,557221067
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3643424744,3592538738
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,4049631843
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,124408337
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,557221067
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3523296417,3592538738
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3828510309,4049631843
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3828510309,124408337
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3828510309,557221067
+dimwishlist:item=4153087276&perks=1840239774,2680121939,3828510309,3592538738
 
 
