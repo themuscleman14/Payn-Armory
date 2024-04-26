@@ -2,7 +2,7 @@ title:This is a compiled collection of god/recommended rolls from Payn's Armory.
 description:Thanks to Payn Senpai.
 
 // Point of the Stag - Payn (pve)
-//notes: [PP] This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:pve
+//notes: PP: This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:pve
 dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,1546637391
 
 
@@ -19,7 +19,7 @@ dimwishlist:item=888872889&perks=1196733167,3827198035,691659142,4082225868
 
 
 // Pressurized Precision - Payn (pve)
-//notes: [PP] Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:pve
+//notes: PP: Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:pve
 dimwishlist:item=1084190509&perks=1482024992,689005463,3978468247,831391274
 
 
@@ -30,7 +30,7 @@ dimwishlist:item=1084190509&perks=1482024992,689005463,3300816228,831391274
 
 
 // Pressurized Precision - Payn (pvp)
-//notes: [PP] I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:pvp
+//notes: PP: I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:pvp
 dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2213355989
 
 
@@ -45,7 +45,7 @@ dimwishlist:item=1084190509&perks=1482024992,3868766766,280464955,1799762209
 
 
 // Tusk of the Boar - Payn (pve)
-//notes: [PP] This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf. tags:pve
+//notes: PP: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf. tags:pve
 dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472
 
 
@@ -62,12 +62,12 @@ dimwishlist:item=1764868900&perks=4090651448,3142289711,3978468247,2451262963
 
 
 // Riiswalker - Payn (pvp)
-//notes: [PP] This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:pvp
+//notes: PP: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:pvp
 dimwishlist:item=1764868900&perks=4090651448,3142289711,2450788523,47981717
 
 
 // Lethal Abundance - Payn (pve)
-//notes: [PP] Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:pve
+//notes: PP: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:pve
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,95528736
 
 
@@ -82,7 +82,7 @@ dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,831391274
 
 
 // Lethal Abundance - Payn (pvp)
-//notes: [PP] This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:pvp
+//notes: PP: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:pvp
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,365154968
 
 
@@ -103,7 +103,7 @@ dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,95528736
 
 
 // Multimach CCX - Payn  (pve)
-//notes: [PP] This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it. tags:pve
+//notes: PP: This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it. tags:pve
 dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,3891536761
 
 
@@ -116,5 +116,5 @@ dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1015611457
 
 
 // Multimach CCX - Payn (pvp)
-//notes: [PP] You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:pvp
+//notes: PP: You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:pvp
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761
