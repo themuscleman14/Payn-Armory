@@ -8,3 +8,11 @@ dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472,212
 // Riiswalker
 //notes: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column.
 dimwishlist:item=1764868900&perks=4090651448,3142289711,2450788523,47981717
+
+// Multimach CCX
+//notes: PVE This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it.
+
+//notes: PVP You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them.
+
+//Lethal Abundance
+//notes: PvE: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good.
