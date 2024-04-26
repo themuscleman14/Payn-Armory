@@ -1,73 +1,120 @@
 title:This is a compiled collection of god/recommended rolls from Payn's Armory.
 description:Thanks to Payn Senpai.
 
-// Tusk of the Boar
-//notes: Payn: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf.
-dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472,2120661319
+// Point of the Stag - Payn (pve)
+//notes: |PP| This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:pve
+dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,1546637391
 
-// Riiswalker
-//notes: Payn: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column.
+
+// Point of the Stag - Payn (pve)
+//notes: This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:pve
+dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,1546637391
+dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,2610012052
+dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,2848615171
+dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,4082225868
+dimwishlist:item=888872889&perks=1196733167,3827198035,691659142,1546637391
+dimwishlist:item=888872889&perks=1196733167,3827198035,691659142,2610012052
+dimwishlist:item=888872889&perks=1196733167,3827198035,691659142,2848615171
+dimwishlist:item=888872889&perks=1196733167,3827198035,691659142,4082225868
+
+
+// Pressurized Precision - Payn (pve)
+//notes: |PP| Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:pve
+dimwishlist:item=1084190509&perks=1482024992,689005463,3978468247,831391274
+
+
+// Pressurized Precision - Payn (pve)
+//notes: Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:pve
+dimwishlist:item=1084190509&perks=1482024992,689005463,3978468247,831391274
+dimwishlist:item=1084190509&perks=1482024992,689005463,3300816228,831391274
+
+
+// Pressurized Precision - Payn (pvp)
+//notes: |PP| I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:pvp
+dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2213355989
+
+
+// Pressurized Precision - Payn (pvp)
+//notes: I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:pvp
+dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2213355989
+dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2846385770
+dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,1799762209
+dimwishlist:item=1084190509&perks=1482024992,3868766766,280464955,2213355989
+dimwishlist:item=1084190509&perks=1482024992,3868766766,280464955,2846385770
+dimwishlist:item=1084190509&perks=1482024992,3868766766,280464955,1799762209
+
+
+// Tusk of the Boar - Payn (pve)
+//notes: |PP| This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf. tags:pve
+dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472
+
+
+// Riiswalker - Payn (pvp)
+//notes: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:pvp
+dimwishlist:item=1764868900&perks=4090651448,3142289711,1821614984,47981717
+dimwishlist:item=1764868900&perks=4090651448,3142289711,1821614984,2451262963
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3161816588,47981717
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3161816588,2451262963
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3436462433,47981717
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3436462433,2451262963
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3978468247,47981717
+dimwishlist:item=1764868900&perks=4090651448,3142289711,3978468247,2451262963
+
+
+// Riiswalker - Payn (pvp)
+//notes: |PP| This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:pvp
 dimwishlist:item=1764868900&perks=4090651448,3142289711,2450788523,47981717
 
-// Multimach CCX
-//notes: Payn: PVE This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it.
-dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,3891536761,2120661319
 
-//notes: Payn: PVP You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them.
-dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761,2120661319
-dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,3891536761,2120661319
-dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1015611457,2120661319
+// Lethal Abundance - Payn (pve)
+//notes: |PP| Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:pve
+dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,95528736
 
-//Lethal Abundance
-//notes: Payn: PvE: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good.
+
+// Lethal Abundance - Payn (pve)
+//notes: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:pve
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,95528736
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,365154968
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,831391274
+dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,95528736
 dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,365154968
 dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,831391274
-dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,95528736
 
-//notes: Payn: PvP: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second. 
-dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,365154968
-dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,365154968
+
+// Lethal Abundance - Payn (pvp)
+//notes: |PP| This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:pvp
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,365154968
-dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,1890422124
-dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,1890422124
+
+
+// Lethal Abundance - Payn (pvp)
+//notes: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:pvp
+dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,365154968
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,1890422124
-dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,95528736
-dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,95528736
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,95528736
+dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,365154968
+dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,1890422124
+dimwishlist:item=2189073092&perks=1392496348,1885400500,3619207468,95528736
+dimwishlist:item=2189073092&perks=1392496348,1885400500,1359896290,365154968
+dimwishlist:item=2189073092&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=2189073092&perks=1392496348,1885400500,1359896290,95528736
+dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,365154968
+dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,1890422124
+dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,95528736
 
-//notes:Muscle Test lines
-dimwishlist:item=548958835&perks=1840239774,732557052,3700496672,4049631843
-dimwishlist:item=548958835&perks=1392496348,732557052,3700496672,4049631843
-dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,4049631843
-dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,4049631843
-dimwishlist:item=548958835&perks=4090651448,732557052,3700496672,4049631843
-dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,4049631843
-dimwishlist:item=548958835&perks=1392496348,2749775325,3700496672,4049631843
-dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,4049631843
-dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,4049631843
-dimwishlist:item=548958835&perks=4090651448,2749775325,3700496672,4049631843
-dimwishlist:item=548958835&perks=1840239774,2680121939,3700496672,4049631843
-dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,4049631843
-dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,4049631843
-dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,4049631843
-dimwishlist:item=548958835&perks=4090651448,2680121939,3700496672,4049631843
-dimwishlist:item=548958835&perks=1840239774,732557052,3700496672,2610012052
-dimwishlist:item=548958835&perks=1392496348,732557052,3700496672,2610012052
-dimwishlist:item=548958835&perks=1482024992,732557052,3700496672,2610012052
-dimwishlist:item=548958835&perks=3250034553,732557052,3700496672,2610012052
-dimwishlist:item=548958835&perks=4090651448,732557052,3700496672,2610012052
-dimwishlist:item=548958835&perks=1840239774,2749775325,3700496672,2610012052
-dimwishlist:item=548958835&perks=1392496348,2749775325,3700496672,2610012052
-dimwishlist:item=548958835&perks=1482024992,2749775325,3700496672,2610012052
-dimwishlist:item=548958835&perks=3250034553,2749775325,3700496672,2610012052
-dimwishlist:item=548958835&perks=4090651448,2749775325,3700496672,2610012052
-dimwishlist:item=548958835&perks=1840239774,2680121939,3700496672,2610012052
-dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,2610012052
-dimwishlist:item=548958835&perks=1482024992,2680121939,3700496672,2610012052
-dimwishlist:item=548958835&perks=3250034553,2680121939,3700496672,2610012052
-dimwishlist:item=548958835&perks=4090651448,2680121939,3700496672,2610012052
 
-dimwishlist:item=548958835&perks=1392496348,2680121939,3700496672,4049631843
+// Multimach CCX - Payn  (pve)
+//notes: |PP| This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it. tags:pve
+dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,3891536761
+
+
+// Multimach CCX - Payn (pvp)
+//notes: You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:pvp
+dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,3891536761
+dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,1015611457
+dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761
+dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1015611457
+
+
+// Multimach CCX - Payn (pvp)
+//notes: |PP| You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:pvp
+dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761
