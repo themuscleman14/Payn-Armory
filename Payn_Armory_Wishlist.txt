@@ -2,12 +2,12 @@ title:This is a compiled collection of god/recommended rolls from Payn's Armory.
 description:Thanks to Payn Senpai.
 
 // Point of the Stag - Payn (god-pve)
-//notes: This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:god-pve
+//notes: Payn: This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:god-pve
 dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,1546637391
 
 
 // Point of the Stag - Payn (pve)
-//notes: This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:pve
+//notes: Payn: This is a great bow. One of the best from the past. There are a number of good rolls for PvE. In the first column Archers tempo is top pick but Pugilist is also good for some builds. In the second column its really take your pick, dragonfly, Swash, Tricorn. I will be going for this: tags:pve
 dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,1546637391
 dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,2610012052
 dimwishlist:item=888872889&perks=1196733167,3827198035,201365942,2848615171
@@ -19,23 +19,23 @@ dimwishlist:item=888872889&perks=1196733167,3827198035,691659142,4082225868
 
 
 // Pressurized Precision - Payn (god-pve)
-//notes: Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:god-pve
+//notes: Payn: Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:god-pve
 dimwishlist:item=1084190509&perks=1482024992,689005463,3978468247,831391274
 
 
 // Pressurized Precision - Payn (god-pvp)
-//notes: I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:god-pvp
+//notes: Payn: I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:god-pvp
 dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2213355989
 
 
 // Pressurized Precision - Payn (pve)
-//notes: Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:pve
+//notes: Payn: Also first of its kind. It can roll Hatchling. Everything else is kinda meh for PvE, maybe Auto Loading Holster if you're into that sort of thing. I like Discord personally: tags:pve
 dimwishlist:item=1084190509&perks=1482024992,689005463,3978468247,831391274
 dimwishlist:item=1084190509&perks=1482024992,689005463,3300816228,831391274
 
 
 // Pressurized Precision - Payn (pvp)
-//notes: I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:pvp
+//notes: Payn: I think this is meant more for PvP. We have Perpetual Motion and Firmly planted in the first slot and Rangefinder and Cornered in the second. I will be going for... tags:pvp
 dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2213355989
 dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,2846385770
 dimwishlist:item=1084190509&perks=1482024992,3868766766,1428297954,1799762209
@@ -45,17 +45,17 @@ dimwishlist:item=1084190509&perks=1482024992,3868766766,280464955,1799762209
 
 
 // Tusk of the Boar - Payn (god-pve)
-//notes: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf. tags:god-pve
+//notes: Payn: This is a phenomenal weapon. I highly encourage you to grind for it. I would hold on to both a chain reaction and a hatchling roll since Chain Reaction is catching a nerf. tags:god-pve
 dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472
 
 
 // Riiswalker - Payn (god-pvp)
-//notes: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:god-pvp
+//notes: Payn: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:god-pvp
 dimwishlist:item=1764868900&perks=4090651448,3142289711,2450788523,47981717
 
 
 // Riiswalker - Payn (pvp)
-//notes: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:pvp
+//notes: Payn: This is a PvP shotgun and a very good one. Slickdraw is interesting in the first column. It also has Surplus, Slideshot, and Discord there as well. You have your choice of Opening Shot or Fragile Focus in the second column. tags:pvp
 dimwishlist:item=1764868900&perks=4090651448,3142289711,1821614984,47981717
 dimwishlist:item=1764868900&perks=4090651448,3142289711,1821614984,2451262963
 dimwishlist:item=1764868900&perks=4090651448,3142289711,3161816588,47981717
@@ -67,17 +67,17 @@ dimwishlist:item=1764868900&perks=4090651448,3142289711,3978468247,2451262963
 
 
 // Lethal Abundance - Payn (god-pve)
-//notes: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:god-pve
+//notes: Payn: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:god-pve
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,95528736
 
 
 // Lethal Abundance - Payn (god-pvp)
-//notes: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:god-pvp
+//notes: Payn: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:god-pvp
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,365154968
 
 
 // Lethal Abundance - Payn (pve)
-//notes: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:pve
+//notes: Payn: Everyone is going bonkers over this... and they should. It is a very nice gun. In the first column you can roll Slice or Discord and in the second column Target Lock, Hatchling, or Onslaught. Any way you do it, it will be good. tags:pve
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,95528736
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,365154968
 dimwishlist:item=2189073092&perks=1392496348,1087426260,923806249,831391274
@@ -87,7 +87,7 @@ dimwishlist:item=2189073092&perks=1392496348,1087426260,3978468247,831391274
 
 
 // Lethal Abundance - Payn (pvp)
-//notes: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:pvp
+//notes: Payn: This also isn't a bad option for PvP either. Some really good perks in both columns. Keep away, Dynamic Sway, Elemental Cap, or slice in the first and Target Lock, Tap the Trigger, or Onslaught in the second.  tags:pvp
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,365154968
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,1890422124
 dimwishlist:item=2189073092&perks=1392496348,1885400500,923806249,95528736
@@ -103,18 +103,297 @@ dimwishlist:item=2189073092&perks=1392496348,1885400500,3511092054,95528736
 
 
 // Multimach CCX - Payn  (god-pve)
-//notes: This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it. tags:god-pve
+//notes: Payn: This is a phenomenal gun. Really worth it. Huge PvE roll has Over-Under and Kinetic Tremors. This can also be enhanced in the final shape. Get it. tags:god-pve
 dimwishlist:item=3211624072&perks=1482024992,106909392,1870851715,3891536761
 
 
 // Multimach CCX - Payn (god-pvp)
-//notes: You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:god-pvp
+//notes: Payn: You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:god-pvp
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761
 
 
 // Multimach CCX - Payn (pvp)
-//notes: You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:pvp
+//notes: Payn: You can go a number of ways here. It is really fit to your playstyle. I have a Moving Target and Kinetic Tremors roll that I really like. It can also get Dynamic Sway and Kill Clip. Important: AS of now, Target Lock does not help TTK at any res. It is useless. For Kinetic Tremors is great because if you don't down someone in the optimal TTK, Tremors will proc and do extra damage to the player and to anyone around them. tags:pvp
 dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,3891536761
 dimwishlist:item=3211624072&perks=1482024992,3142289711,588594999,1015611457
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,3891536761
 dimwishlist:item=3211624072&perks=1482024992,3142289711,1359896290,1015611457
+
+// Forbearance - Payn (god-pve)
+//notes: Payn: This is another one that is a raid weapon and so if you have it crafted, you may pass. The two things that I would suggest you consider though are that Chain Reaction is getting a nerf on Special Weapons and this version of the gun rolls with Disruption Break in the first slot. I am thinking of looking for two:  tags:god-pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2396489472
+
+
+// Forbearance - Payn (god-pve)
+//notes: Payn: This is another one that is a raid weapon and so if you have it crafted, you may pass. The two things that I would suggest you consider though are that Chain Reaction is getting a nerf on Special Weapons and this version of the gun rolls with Disruption Break in the first slot. I am thinking of looking for two:  tags:god-pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,3425386926
+
+
+// Forbearance - Payn (pve)
+//notes: Payn: This is another one that is a raid weapon and so if you have it crafted, you may pass. The two things that I would suggest you consider though are that Chain Reaction is getting a nerf on Special Weapons and this version of the gun rolls with Disruption Break in the first slot. I am thinking of looking for two:  tags:pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,3425386926
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,3425386926
+dimwishlist:item=568611921&perks=3525010810,2822142346,1683379515,2396489472
+
+
+// The Mountaintop - Payn (god-pve)
+//notes: Payn: There are great perks on this. You can go for a more utility roll that helps clear ads with Overflow or Ambitious Assassin in the first column and Rampage or One For all in the second column. Or you can go for a roll that will be useful in GMs and DPS phases with Autoloading and Vorpal. I will be looking for the second of these.  I will also be on the lookout for one with Recombination.  tags:god-pve
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,1546637391
+
+
+// The Mountaintop - Payn (god-pvp)
+//notes: Payn: If you want this for PvP I'd take Impulse Amplifier and your choice of a damage perk. tags:god-pvp
+dimwishlist:item=568611922&perks=3798852852,3301904089,951095735,4104185692
+
+
+// The Mountaintop - Payn (pve)
+//notes: Payn: There are great perks on this. You can go for a more utility roll that helps clear ads with Overflow or Ambitious Assassin in the first column and Rampage or One For all in the second column. Or you can go for a roll that will be useful in GMs and DPS phases with Autoloading and Vorpal. I will be looking for the second of these.  I will also be on the lookout for one with Recombination.  tags:pve
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,3425386926
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,4049631843
+dimwishlist:item=568611922&perks=3798852852,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,3425386926
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,4049631843
+dimwishlist:item=568611922&perks=3798852852,3301904089,2010801679,469285294
+dimwishlist:item=568611922&perks=3798852852,3301904089,3643424744,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,3643424744,3425386926
+dimwishlist:item=568611922&perks=3798852852,3301904089,3643424744,4049631843
+dimwishlist:item=568611922&perks=3798852852,3301904089,3643424744,469285294
+
+
+// The Mountaintop - Payn (pvp)
+//notes: Payn: If you want this for PvP I'd take Impulse Amplifier and your choice of a damage perk. tags:pvp
+dimwishlist:item=568611922&perks=3798852852,3301904089,951095735,4104185692
+dimwishlist:item=568611922&perks=3798852852,3301904089,951095735,3425386926
+dimwishlist:item=568611922&perks=3798852852,3301904089,951095735,1546637391
+dimwishlist:item=568611922&perks=3798852852,3301904089,951095735,469285294
+dimwishlist:item=568611922&perks=3798852852,3301904089,951095735,4049631843
+
+
+// Edge Transit - Payn (god-pve)
+//notes: Payn: The meme gun is back and really good. For DPS I would roll: tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+
+
+// Edge Transit - Payn (god-pve)
+//notes: Payn: For Ad clear I would roll either Chain Reaction or Envious Assassin in the first column and pair it with Destabilizing Rounds in the Second. If you like Explosive Light instead, I understand. tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,2396489472,2048641572
+
+
+// Edge Transit - Payn (pve)
+//notes: Payn: For Ad clear I would roll either Chain Reaction or Envious Assassin in the first column and pair it with Destabilizing Rounds in the Second. If you like Explosive Light instead, I understand. tags:pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,2396489472,2048641572
+dimwishlist:item=568611923&perks=3525010810,3301904089,2396489472,3194351027
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,2048641572
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3194351027
+
+
+// The Recluse - Payn (god-pvp)
+//notes: Payn: I would really only go one way here: tags:god-pvp
+dimwishlist:item=1050806815&perks=1482024992,1561002382,1359896290,3081867624
+
+
+// The Recluse - Payn (god-pve)
+//notes: Payn:This was always one of my favorite guns. It is even better now. You can go with the classic Feeding Frenzy/Master of Arms roll. It will do well for you. I want to lean into the Void aspect though and do Repulsor Brace/Destabilizing Rounds. Although, it may be worth it for Hunters who rock Gyrfalcon to do Repulsor Brace/Master of Arms since it is so easy to proc Volatile that way. tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,1087426260,776531651,2048641572
+
+
+// The Recluse - Payn (pve)
+//notes: Payn:This was always one of my favorite guns. It is even better now. You can go with the classic Feeding Frenzy/Master of Arms roll. It will do well for you. I want to lean into the Void aspect though and do Repulsor Brace/Destabilizing Rounds. Although, it may be worth it for Hunters who rock Gyrfalcon to do Repulsor Brace/Master of Arms since it is so easy to proc Volatile that way. tags:pve
+dimwishlist:item=1050806815&perks=1482024992,1087426260,776531651,2048641572
+dimwishlist:item=1050806815&perks=1482024992,1087426260,776531651,3081867624
+dimwishlist:item=1050806815&perks=1482024992,1087426260,2779035018,2048641572
+dimwishlist:item=1050806815&perks=1482024992,1087426260,2779035018,3081867624
+
+
+// Hung Jury SR4 - Payn (god-pve)
+//notes: Payn: Look, this thing has come back more times than it probably needed to. If you have an Adept roll from GM's, you probably not need it. BUT. I would say that the one roll that could be worth it is Kinetic Tremors and Explosive Payload. I keep two Adepts in my vault, one with Kinetic and one with EP. Now they can be together and I think it would be a top tier option for GM level content. I would also keep an eye out for Tremors and One for All together. I will be keeping that roll as well.  tags:god-pve
+dimwishlist:item=1453235079&perks=1482024992,106909392,3891536761,3038247973
+
+
+// Hung Jury SR4 - Payn (pve)
+//notes: Payn: Look, this thing has come back more times than it probably needed to. If you have an Adept roll from GM's, you probably not need it. BUT. I would say that the one roll that could be worth it is Kinetic Tremors and Explosive Payload. I keep two Adepts in my vault, one with Kinetic and one with EP. Now they can be together and I think it would be a top tier option for GM level content. I would also keep an eye out for Tremors and One for All together. I will be keeping that roll as well.  tags:pve
+dimwishlist:item=1453235079&perks=1482024992,106909392,3891536761,3038247973
+dimwishlist:item=1453235079&perks=1482024992,106909392,3891536761,3824105627
+dimwishlist:item=1453235079&perks=1482024992,106909392,3891536761,4049631843
+
+
+// Falling Guillotine - Payn (god-pve)
+//notes: Payn: For ad clear I would roll with either chain reaction or frenzy in the first column and either Destabilizing Rounds or Sword Logic in the second. tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,52780822,2396489472,2048641572
+
+
+// Falling Guillotine - Payn (god-pve)
+//notes: Payn: DPS: For this you could either go Relentless Strikes or Vorpal in the first column and then either whirlwind blade or bait and switch in the second. tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,52780822,1749209109,3078487919
+
+
+// Falling Guillotine - Payn (pve)
+//notes: Payn: For ad clear I would roll with either chain reaction or frenzy in the first column and either Destabilizing Rounds or Sword Logic in the second. tags:pve
+dimwishlist:item=1815105249&perks=3666208348,52780822,2396489472,2048641572
+dimwishlist:item=1815105249&perks=3666208348,52780822,2396489472,31345821
+dimwishlist:item=1815105249&perks=3666208348,52780822,4104185692,2048641572
+dimwishlist:item=1815105249&perks=3666208348,52780822,4104185692,31345821
+
+
+// Falling Guillotine - Payn (pve)
+//notes: Payn: DPS: For this you could either go Relentless Strikes or Vorpal in the first column and then either whirlwind blade or bait and switch in the second. tags:pve
+dimwishlist:item=1815105249&perks=3666208348,52780822,1749209109,3078487919
+dimwishlist:item=1815105249&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=1815105249&perks=3666208348,52780822,1546637391,3078487919
+dimwishlist:item=1815105249&perks=3666208348,52780822,1546637391,3913600130
+
+
+// Hammerhead - Payn (god-pve)
+//notes: Payn: For Ad clear I absolutely want to put Rampage and Onslaught together. tags:god-pve
+dimwishlist:item=1896309757&perks=1840239774,1087426260,3425386926,2109543898
+
+
+// Hammerhead - Payn (god-pve)
+//notes: Payn: DPS tags:god-pve
+dimwishlist:item=1896309757&perks=1840239774,1087426260,3418782618,365154968
+
+
+// Blast Furnace - Payn (god-pve)
+//notes: Payn: This was one of my favorite weapons in the Black Armory era. There is so much good here. Again, dealers choice for damage perks. There is even Firefly on it. You can't really go wrong with Rampage, One for All, or Frenzy in that last column. For an Ad clear/GM content weapon I think this is your roll tags:god-pve
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,3425386926
+
+
+// Blast Furnace - Payn (god-pvp)
+//notes: Payn: There are a number of ways to go with this. Headseeker is in the first column and so you could pair that with Rapid hit or kill clip or rampage. I want consistency for this so I will be doing this: tags:god-pvp
+dimwishlist:item=2372514508&perks=4090651448,3142289711,2387244414,1015611457
+
+
+// Blast Furnace - Payn (pve)
+//notes: Payn: This was one of my favorite weapons in the Black Armory era. There is so much good here. Again, dealers choice for damage perks. There is even Firefly on it. You can't really go wrong with Rampage, One for All, or Frenzy in that last column. For an Ad clear/GM content weapon I think this is your roll tags:pve
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,3425386926
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,1015611457
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,3824105627
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,4104185692
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,4049631843
+
+
+// Blast Furnace - Payn (pvp)
+//notes: Payn: There are a number of ways to go with this. Headseeker is in the first column and so you could pair that with Rapid hit or kill clip or rampage. I want consistency for this so I will be doing this: tags:pvp
+dimwishlist:item=2372514508&perks=4090651448,3142289711,2387244414,1015611457
+dimwishlist:item=2372514508&perks=4090651448,3142289711,2387244414,247725512
+dimwishlist:item=2372514508&perks=4090651448,3142289711,2387244414,3425386926
+dimwishlist:item=2372514508&perks=4090651448,3142289711,460017080,1015611457
+dimwishlist:item=2372514508&perks=4090651448,3142289711,460017080,247725512
+dimwishlist:item=2372514508&perks=4090651448,3142289711,460017080,3425386926
+
+
+// Elsie's Rifle - Payn (god-pve)
+//notes: Payn: So many great combos. I would lean into the Destabalizing Rounds loop for this. In the first column, you can roll Repulsor Brace or the newly buffed Loose Change. You also have a buffed Under/Over as well as great perks like Rewind Rounds and Feeding Frenzy for kill chaining. Any of those paired with Destabilizing Rounds will give you a great void build gun. If you want to roll a damage perk, KIll Clip is always great or the new Desperate Measures is a better Tricorn.
+ tags:god-pve
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1870851715,2048641572
+
+
+// Elsie's Rifle - Payn (god-pvp)
+//notes: Payn: This is going to be a monster in PvP. You can run it multiple ways. I will die on the hill that Zen Moment is what you want in the first column although Keep Away is a great perk. In the second column, it is the dealer's choice. I personally like Headseeker though you can't go wrong with Kill Clip or Desperado. tags:god-pvp
+dimwishlist:item=2372514509&perks=4090651448,1561002382,2387244414,460017080
+
+
+// Elsie's Rifle - Payn (pve)
+//notes: Payn: So many great combos. I would lean into the Destabalizing Rounds loop for this. In the first column, you can roll Repulsor Brace or the newly buffed Loose Change. You also have a buffed Under/Over as well as great perks like Rewind Rounds and Feeding Frenzy for kill chaining. Any of those paired with Destabilizing Rounds will give you a great void build gun. If you want to roll a damage perk, KIll Clip is always great or the new Desperate Measures is a better Tricorn.
+ tags:pve
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1870851715,2048641572
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1870851715,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1870851715,2109543898
+dimwishlist:item=2372514509&perks=4090651448,1087426260,776531651,2048641572
+dimwishlist:item=2372514509&perks=4090651448,1087426260,776531651,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1087426260,776531651,2109543898
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1119449540,2048641572
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1119449540,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1087426260,1119449540,2109543898
+dimwishlist:item=2372514509&perks=4090651448,1087426260,3418782618,2048641572
+dimwishlist:item=2372514509&perks=4090651448,1087426260,3418782618,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1087426260,3418782618,2109543898
+dimwishlist:item=2372514509&perks=4090651448,1087426260,2779035018,2048641572
+dimwishlist:item=2372514509&perks=4090651448,1087426260,2779035018,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1087426260,2779035018,2109543898
+
+
+// Elsie's Rifle - Payn (pvp)
+//notes: Payn: This is going to be a monster in PvP. You can run it multiple ways. I will die on the hill that Zen Moment is what you want in the first column although Keep Away is a great perk. In the second column, it is the dealer's choice. I personally like Headseeker though you can't go wrong with Kill Clip or Desperado. tags:pvp
+dimwishlist:item=2372514509&perks=4090651448,1561002382,2387244414,460017080
+dimwishlist:item=2372514509&perks=4090651448,1561002382,2387244414,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1561002382,2387244414,3047969693
+dimwishlist:item=2372514509&perks=4090651448,1561002382,3619207468,460017080
+dimwishlist:item=2372514509&perks=4090651448,1561002382,3619207468,1015611457
+dimwishlist:item=2372514509&perks=4090651448,1561002382,3619207468,3047969693
+
+
+// Midnight Coup - Payn (god-pve)
+//notes: Payn: Sooooo many rolls on this. The perk combos are kinda bonkers. My favorite roll will be Firefly and Kinetic Tremors. But you can do so much with it.  tags:god-pve
+dimwishlist:item=2763843898&perks=1482024992,1087426260,3824105627,3891536761
+
+
+// Midnight Coup - Payn (god-pve)
+//notes: Payn: Ad Clear tags:god-pve
+dimwishlist:item=2763843898&perks=1482024992,1087426260,3824105627,3425386926
+
+
+// Midnight Coup - Payn (god-pve)
+//notes: Payn: GM tags:god-pve
+dimwishlist:item=2763843898&perks=1482024992,1087426260,3038247973,3891536761
+
+
+// Midnight Coup - Payn (god-pvp)
+//notes: Payn: This will be a monster in the crucible. Dealers choice for some of it depending on if you want damage perks or consistency. I will be looking for: tags:god-pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,2387244414
+
+
+// Luna's Howl - Payn (god-pve)
+//notes: Payn: There are some great perks here. I am going for the tried and true Heal Clip/Incandescent tags:god-pve
+dimwishlist:item=2763843899&perks=1482024992,1087426260,3017780555,4293542123
+
+
+// Luna's Howl - Payn (god-pvp)
+//notes: Payn: For PvP, there are a number of combos you can go with. Suit your preference. Eye of the Storm, Encore, Slideshot, Enlightened Action, and Heal Clip are all great in the first column. Magnificent Howl, Kill Clip, Opening Shot are all great in the second. I will go for: tags:god-pvp
+dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,2720533289
+
+
+// Luna's Howl - Payn (pvp)
+//notes: Payn: For PvP, there are a number of combos you can go with. Suit your preference. Eye of the Storm, Encore, Slideshot, Enlightened Action, and Heal Clip are all great in the first column. Magnificent Howl, Kill Clip, Opening Shot are all great in the second. I will go for: tags:pvp
+dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,2720533289
+dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,1015611457
+dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,47981717
+dimwishlist:item=2763843899&perks=1482024992,1561002382,1195158366,2720533289
+dimwishlist:item=2763843899&perks=1482024992,1561002382,1195158366,1015611457
+dimwishlist:item=2763843899&perks=1482024992,1561002382,1195158366,47981717
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3161816588,2720533289
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3161816588,1015611457
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3161816588,47981717
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3828510309,2720533289
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3828510309,1015611457
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3828510309,47981717
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3017780555,2720533289
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3017780555,1015611457
+dimwishlist:item=2763843899&perks=1482024992,1561002382,3017780555,47981717
+
+
+// Succession - Payn (god-pve)
+//notes: Payn: If you have this crafted from Deep Stone Crypt, I wouldn't worry about this one. If you haven't gotten to it or don''t want to raid, this is a great sniper in general. You can set it up two ways, one for group DPS  tags:god-pve
+dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1771339417
+
+
+// Succession - Payn (god-pve)
+//notes: Payn: and one for Solo DPS tags:god-pve
+dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1546637391
+
+
+// Succession - Payn (god-pvp)
+//notes: Payn: This isn't a bad PVP sniper either. You could roll with discord in the first column as it kind of bypasses the special ammo economy but you have to get a kill with another weapon first. I would do this: tags:god-pvp
+dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+
+
+// Succession - Payn (pvp)
+//notes: Payn: This isn't a bad PVP sniper either. You could roll with discord in the first column as it kind of bypasses the special ammo economy but you have to get a kill with another weapon first. I would do this: tags:pvp
+dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=3612338554&perks=1840239774,3142289711,3978468247,957782887
+
+
+
