@@ -1888,3 +1888,80 @@ dimwishlist:item=2218569744&perks=4090651448,106909392,3523296417,2173046394,390
 //notes: Payn: PvE: This has the capacity to deal a ton of DPS if you enhance both perks and it is a situation that you can get up in something's face. Situational, but really good. tags:god-pve
 dimwishlist:item=2531963421&perks=1482024992,791862061,3400784728,3708227201,3907865655
 
+// Nezarec's Whisper (god-pve)
+//notes: Payn: PvE: You could go a couple of ways here, Vorpal or Unstoppable Force in the second slot are good picks. I did this though. tags:god-pve
+dimwishlist:item=254636484&perks=580685494,3721627275,3523296417,4104185692,1250481499
+
+
+// Nezarec's Whisper (pve)
+//notes: Payn: PvE: You could go a couple of ways here, Vorpal or Unstoppable Force in the second slot are good picks. I did this though. tags:pve
+dimwishlist:item=254636484&perks=580685494,3721627275,3523296417,4104185692,1250481499
+dimwishlist:item=254636484&perks=580685494,3721627275,3523296417,1546637391,1250481499
+dimwishlist:item=254636484&perks=580685494,3721627275,3523296417,2224838837,1250481499
+
+
+// Drang (Baroque) (god-pve)
+//notes: Payn: PvE: Here's my confession, I hate this gun. But here is how I would craft it if I did craft it... which I didn't... tags:god-pve
+dimwishlist:item=502356570&perks=4090651448,106909392,3592538738,4293542123,1905044254
+
+
+// Without Remorse (god-pvp)
+//notes: Payn: PvP: This is one of my favorite PvP Shotguns. I crafted mine to be able to take out supers. tags:god-pvp
+dimwishlist:item=1478986057&perks=1482024992,3142289711,4071163871,2679249093,1250481499
+
+
+// Without Remorse (god-pve)
+//notes: Payn: PvE: It's also not a bad PvE Shotgun. tags:god-pve
+dimwishlist:item=1478986057&perks=1482024992,791862061,1583705720,4293542123,1250481499
+
+
+// Bump in the Night (god-pve)
+//notes: Payn: PvE Unicorn: This is used for only one reason, chill clip paired with a Gally. By the numbers, you should only run one of these per fireteam but the wolfpack rounds combined with stasis does a good bit of damage. tags:god-pve
+dimwishlist:item=1959650777&perks=981914802,3796465595,3523296417,2978966579,1250481499
+
+
+// CALUS Mini-Tool (god-pve)
+//notes: Payn: PvE: Probably the best gun in this season. Here is how I have mine. tags:god-pve
+dimwishlist:item=2490988246&perks=4090651448,106909392,3108830275,4293542123,1905044254
+
+
+// Austringer (god-pvp)
+//notes: Payn: PvP: You could go Snapshot in the first column but I love Eye of the Storm, personally. EDIT With the change to Rangefinder, I would sub that out for Zen Moment. tags:god-pvp
+dimwishlist:item=3055790362&perks=4090651448,1561002382,699525795,2387244414,1905044254
+
+
+// Austringer (god-pve)
+//notes: Payn: PvE: Honestly, there are better 140 HC's for PvE but if you were in love with this gun... tags:god-pve
+dimwishlist:item=3055790362&perks=4090651448,1885400500,1168162263,4104185692,1905044254
+
+
+// Austringer (pvp)
+//notes: Payn: PvP: You could go Snapshot in the first column but I love Eye of the Storm, personally. EDIT With the change to Rangefinder, I would sub that out for Zen Moment. tags:pvp
+dimwishlist:item=3055790362&perks=4090651448,1561002382,699525795,2387244414,1905044254
+dimwishlist:item=3055790362&perks=4090651448,1561002382,699525795,2846385770,1905044254
+dimwishlist:item=3055790362&perks=4090651448,1561002382,957782887,2387244414,1905044254
+dimwishlist:item=3055790362&perks=4090651448,1561002382,957782887,2846385770,1905044254
+
+
+// Beloved (god-pve)
+//notes: Payn: PvE--- First slot you want to go with Fourth Times the Charm. The second slot is a little more flexible. I prefer Incandescent since beloved is better than the Ikelos Sniper and they are the only two that can roll with it. You could sub that out for Boxed Breathing for a more DPS heavy roll. Rampage also exists here but... tags:god-pve
+dimwishlist:item=3107853529&perks=4090651448,1087426260,1354429876,4293542123,1905044254
+
+
+// Beloved (god-pve)
+//notes: Payn: PvE--- First slot you want to go with Fourth Times the Charm. The second slot is a little more flexible. I prefer Incandescent since beloved is better than the Ikelos Sniper and they are the only two that can roll with it. You could sub that out for Boxed Breathing for a more DPS heavy roll. Rampage also exists here but... tags:god-pve
+dimwishlist:item=3107853529&perks=4090651448,1087426260,1354429876,4293542123,1905044254
+dimwishlist:item=3107853529&perks=4090651448,1087426260,1354429876,2551157718,1905044254
+dimwishlist:item=3107853529&perks=4090651448,1087426260,1354429876,3425386926,1905044254
+
+
+// Beloved (god-pvp)
+//notes: Payn: PvP--- Really one way to go unless you are a huge fan of something like Surplus or No Distinctions. I opted for this. tags:god-pvp
+dimwishlist:item=3107853529&perks=4090651448,1561002382,957782887,588594999,1905044254
+
+
+// Beloved (pvp)
+//notes: Payn: PvP--- Really one way to go unless you are a huge fan of something like Surplus or No Distinctions. I opted for this. tags:pvp
+dimwishlist:item=3107853529&perks=4090651448,1561002382,957782887,588594999,1905044254
+dimwishlist:item=3107853529&perks=4090651448,1561002382,3436462433,588594999,1905044254
+dimwishlist:item=3107853529&perks=4090651448,1561002382,2866798147,588594999,1905044254
