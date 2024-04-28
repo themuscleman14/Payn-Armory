@@ -585,5 +585,220 @@ dimwishlist:item=4097972038&perks=4090651448,1087426260,776531651,2048641572
 dimwishlist:item=4097972038&perks=4090651448,1087426260,776531651,2679249093
 dimwishlist:item=4097972038&perks=4090651448,1087426260,776531651,3751912585
 
+// Eleatic Principle (god-pve)
+//notes: Payn: PvE: I honestly don't know why this exists. There are many other Arc Machine guns. If you really want a rapid fire frame, I guess you could roll Tricorn or Harmony in the second slot. I would do this: tags:god-pve
+dimwishlist:item=105306149&perks=4090651448,1087426260,2387244414,365154968
+
+
+// Eleatic Principle (pve)
+//notes: Payn: PvE: I honestly don't know why this exists. There are many other Arc Machine guns. If you really want a rapid fire frame, I guess you could roll Tricorn or Harmony in the second slot. I would do this: tags:pve
+dimwishlist:item=105306149&perks=4090651448,1087426260,2387244414,365154968
+dimwishlist:item=105306149&perks=4090651448,1087426260,2387244414,2610012052
+dimwishlist:item=105306149&perks=4090651448,1087426260,2387244414,438098033
+
+
+// Horror Story (god-pve)
+//notes: Payn: PvE: Horror Story got a face lift and is Stasis now. You can get a nice Demo Headstone/Collective Action/Frenzy/Target Lock roll, take your pick. tags:god-pve
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,124408337
+
+
+// Horror Story (pve)
+//notes: Payn: PvE: Horror Story got a face lift and is Stasis now. You can get a nice Demo Headstone/Collective Action/Frenzy/Target Lock roll, take your pick. tags:pve
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,124408337
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,3324494224
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,4104185692
+dimwishlist:item=177568179&perks=1482024992,106909392,3523296417,365154968
+
+
+// Psi Hermetic V (god-pve)
+//notes: Payn: PvE--- Another Stasis Pulse. This time, it has a really cool new Origin Perk that drops what looks like Telesto Bolts on the ground after a kill that does damage. Seems worth it to me for some stasis builds. Same thing applies to Stasis Weapons in PvE that applies to Strand. tags:god-pve
+dimwishlist:item=358788212&perks=839105230,106909392,3828510309,124408337
+
+
+// Psi Hermetic V (god-pvp)
+//notes: Payn: For me, its gotta be Encore/ Headseeker but if you like Kill Clip, go for it. tags:god-pvp
+dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,460017080
+
+
+// Psi Hermetic V (pvp)
+//notes: Payn: For me, its gotta be Encore/ Headseeker but if you like Kill Clip, go for it. tags:pvp
+dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,460017080
+dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,1015611457
+
+
+// Persuader (god-pve)
+//notes: Payn: PvE: There is only one reason to keep this and that's if you want a sniper with Destabilizing rounds. tags:god-pve
+dimwishlist:item=781498181&perks=1840239774,106909392,776531651,2048641572
+
+
+// Deadpan Delivery (god-pvp)
+//notes: Payn: PvP: There is one particular Roll that I am very interested in and it is the only shotty that can roll it. Slickdraw sucks on most guns but I think it could be really good on a shotty. A new perk Barrel Constrictor in the second column which closes up your pellet spread on follow up shots. Combine this with a new origin trait which increases range and accuracy on sustained fire and we could have a crazy good shotty for crucible. tags:god-pvp
+dimwishlist:item=1296429091&perks=4090651448,3142289711,1821614984,1451849462
+
+
+// Kept Confidence (god-pve)
+//notes: Payn: This gun feels great. It is the only 140 Strand HC and comes with some good perks. For PvE, I think Stats for All is the winner in the first column and in the second you could roll with Collective Action, Multi-Kill Clip or Harmony. tags:god-pve
+dimwishlist:item=1875512595&perks=4090651448,106909392,1583705720,3324494224
+
+
+// Kept Confidence (god-pvp)
+//notes: Payn: For Crucible, I am going to craft a Killing Wind/Eye of the Storm Roll. You could go Multi Kill Clip if you wanted but I like consistency better. tags:god-pvp
+dimwishlist:item=1875512595&perks=4090651448,3142289711,2450788523,699525795
+
+
+// Kept Confidence (pve)
+//notes: Payn: This gun feels great. It is the only 140 Strand HC and comes with some good perks. For PvE, I think Stats for All is the winner in the first column and in the second you could roll with Collective Action, Multi-Kill Clip or Harmony. tags:pve
+dimwishlist:item=1875512595&perks=4090651448,106909392,1583705720,3324494224
+dimwishlist:item=1875512595&perks=4090651448,106909392,1583705720,438098033
+dimwishlist:item=1875512595&perks=4090651448,106909392,1583705720,2458213969
+
+
+// Kept Confidence (pvp)
+//notes: Payn: For Crucible, I am going to craft a Killing Wind/Eye of the Storm Roll. You could go Multi Kill Clip if you wanted but I like consistency better. tags:pvp
+dimwishlist:item=1875512595&perks=4090651448,3142289711,2450788523,699525795
+dimwishlist:item=1875512595&perks=4090651448,3142289711,2450788523,2458213969
+
+
+// Luna Regolith III (god-pvp)
+//notes: Payn: PvP: I'm really interested in this sniper for PvP. Really good profile and perks. 10 million perks in each column is rough though. My perfect roll tags:god-pvp
+dimwishlist:item=1948035256&perks=1840239774,3142289711,957782887,47981717
+
+
+// Luna Regolith III (god-pve)
+//notes: Payn: For PvE: There are better snipers but I got this to drop already. tags:god-pve
+dimwishlist:item=1948035256&perks=1840239774,106909392,3400784728,1771339417
+
+
+// Nightshade (god-pve)
+//notes: Payn: PvE: If you did not craft the Rapid Fire from last season, this is a good alternative. I really enjoyed this gun way back in year one. It is back with an added Strand Effect. As I always say, there isn't a lot of point using a strand weapon in PvE unless you are running a strand build. And so... tags:god-pve
+dimwishlist:item=1974641289&perks=839105230,1087426260,3828510309,831391274
+
+
+// Nightshade (god-pvp)
+//notes: Payn: PvP: I really liked this gun in PvP as well. There are a number of great PvP perks on this, Keep Away, Heating up, etc in the first column and Kill Clip, Moving Target in the second but I will be looking for this: tags:god-pvp
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,460017080
+
+
+// Nightshade (pvp)
+//notes: Payn: PvP: I really liked this gun in PvP as well. There are a number of great PvP perks on this, Keep Away, Heating up, etc in the first column and Kill Clip, Moving Target in the second. tags:pvp
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,460017080
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,1015611457
+dimwishlist:item=1974641289&perks=839105230,1561002382,3828510309,588594999
+dimwishlist:item=1974641289&perks=839105230,1561002382,3619207468,460017080
+dimwishlist:item=1974641289&perks=839105230,1561002382,3619207468,1015611457
+dimwishlist:item=1974641289&perks=839105230,1561002382,3619207468,588594999
+dimwishlist:item=1974641289&perks=839105230,1561002382,1570042021,460017080
+dimwishlist:item=1974641289&perks=839105230,1561002382,1570042021,1015611457
+dimwishlist:item=1974641289&perks=839105230,1561002382,1570042021,588594999
+
+
+// Qua Xaphan V (god-pve)
+//notes: Payn: PvE: This seems almost worth it to go into Gambit for. There are a good number of perks but I would go with the Unicorn. tags:god-pve
+dimwishlist:item=1975125963&perks=4090651448,1087426260,2284787283,2048641572
+
+
+// The Showrunner (god-pve)
+//notes: Payn: PvE: There is one roll that I am going for. If I get it, this might be my main Kinetic SMG for a very long time. tags:god-pve
+dimwishlist:item=1999754402&perks=4090651448,1087426260,3643424744,3891536761
+
+
+// Unending Tempest (god-pve)
+//notes: Payn: PvE: Ten million perks in each column. What immediately stood out to me was Demo and Headstone for a stasis build. tags:god-pve
+dimwishlist:item=2510526114&perks=4090651448,106909392,3523296417,124408337
+
+
+// Unending Tempest (god-pvp)
+//notes: Payn: PvP: 
+This is a bit more mixed. If you like this Archetype for PvP, you have your pick of some very good perks. In the first column you have Dynamic Sway, Killing Wind, Moving Target, Perpetual Motion. Take your pick. In the second, you could go Multi Kill, Adrenaline Junkie, Target Lock, Tap the Trigger. My perfect roll would be:  tags:god-pvp
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1359896290,2458213969
+
+
+// Unending Tempest (pvp)
+//notes: Payn: PvP: 
+This is a bit more mixed. If you like this Archetype for PvP, you have your pick of some very good perks. In the first column you have Dynamic Sway, Killing Wind, Moving Target, Perpetual Motion. Take your pick. In the second, you could go Multi Kill, Adrenaline Junkie, Target Lock, Tap the Trigger.  tags:pvp
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1359896290,2458213969
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1359896290,365154968
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1359896290,11612903
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1359896290,1890422124
+dimwishlist:item=2510526114&perks=4090651448,3142289711,2450788523,2458213969
+dimwishlist:item=2510526114&perks=4090651448,3142289711,2450788523,365154968
+dimwishlist:item=2510526114&perks=4090651448,3142289711,2450788523,11612903
+dimwishlist:item=2510526114&perks=4090651448,3142289711,2450788523,1890422124
+dimwishlist:item=2510526114&perks=4090651448,3142289711,588594999,2458213969
+dimwishlist:item=2510526114&perks=4090651448,3142289711,588594999,365154968
+dimwishlist:item=2510526114&perks=4090651448,3142289711,588594999,11612903
+dimwishlist:item=2510526114&perks=4090651448,3142289711,588594999,1890422124
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,2458213969
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,365154968
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,11612903
+dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,1890422124
+
+
+// Cataphract GL3 (god-pve)
+//notes: Payn: PvE: As @Themuscleman14#8175 pointed out. This is gonna be godly for DPS but you have to go through Trials. tags:god-pve
+dimwishlist:item=2738601016&perks=3798852852,3301904089,968510818,3078487919
+
+
+// Brya's Love (god-pve)
+//notes: Payn: The biggest competition to this will be Doom of Chelchis from Kings Fall. If you already have that crafted and love it, you probably don't need to craft this. The one thing this does have, however, is Destabilizing Rounds. If you are a fan of that or don't have/like the Doom, this is a great scout. You could run Shoot to Loot in the first column as well. tags:god-pve
+dimwishlist:item=2779821308&perks=1392496348,106909392,247725512,2048641572
+
+
+// Brya's Love (pve)
+//notes: Payn: The biggest competition to this will be Doom of Chelchis from Kings Fall. If you already have that crafted and love it, you probably don't need to craft this. The one thing this does have, however, is Destabilizing Rounds. If you are a fan of that or don't have/like the Doom, this is a great scout. You could run Shoot to Loot in the first column as well. tags:pve
+dimwishlist:item=2779821308&perks=1392496348,106909392,247725512,2048641572
+dimwishlist:item=2779821308&perks=1392496348,106909392,3700496672,2048641572
+
+
+// Semiotician (god-pve)
+//notes: Payn: PvE: Our second Strand Rocket and the one that is in the much better Archetype. This is definitely worth getting for Ad clear. There really isn't a good choice of DPS perks but if you really wanted it you could go Impulse Amplifier and either Bipod (which is better now) or Explosive Light. Personally, I will go Ad clear on this one. Stats for All or Field Prep are also good choices in the first column.  tags:god-pve
+dimwishlist:item=2922749929&perks=3798852852,3796465595,3592538738,831391274
+
+
+// Semiotician (pve)
+//notes: Payn: PvE: Our second Strand Rocket and the one that is in the much better Archetype. This is definitely worth getting for Ad clear. There really isn't a good choice of DPS perks but if you really wanted it you could go Impulse Amplifier and either Bipod (which is better now) or Explosive Light. Personally, I will go Ad clear on this one. Stats for All or Field Prep are also good choices in the first column.  tags:pve
+dimwishlist:item=2922749929&perks=3798852852,3796465595,3592538738,831391274
+dimwishlist:item=2922749929&perks=3798852852,3796465595,3592538738,1439600632
+dimwishlist:item=2922749929&perks=3798852852,3796465595,3592538738,3194351027
+dimwishlist:item=2922749929&perks=3798852852,3796465595,951095735,831391274
+dimwishlist:item=2922749929&perks=3798852852,3796465595,951095735,1439600632
+dimwishlist:item=2922749929&perks=3798852852,3796465595,951095735,3194351027
+dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,831391274
+dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,1439600632
+dimwishlist:item=2922749929&perks=3798852852,3796465595,2869569095,3194351027
+
+
+// Jurassic Green (god-pve)
+//notes: Payn: PvE: This got a rework in the perks. You probably already have one or two from last year but it can now roll with a nice combo of Heal Clip and Incandescent. I don't see any other reason to get this other than that Unicorn. tags:god-pve
+dimwishlist:item=3103255595&perks=839105230,106909392,3017780555,4293542123
+
+
+// The Eremite (god-pve)
+//notes: Payn: PvE: High Impacts are rough in PvE. Really the only reason you would be running it is for chunk damage, in which case, I would craft it with Ambitious Assassin and Controlled Burst. If you really like it and want it for add clear, sub out CB for Resevoir Burst, but honestly, Royal Executioner does it better. tags:god-pve
+dimwishlist:item=3347946548&perks=839105230,689005463,968510818,2594592626
+
+
+// The Eremite (pve)
+//notes: Payn: PvE: High Impacts are rough in PvE. Really the only reason you would be running it is for chunk damage, in which case, I would craft it with Ambitious Assassin and Controlled Burst. If you really like it and want it for add clear, sub out CB for Resevoir Burst, but honestly, Royal Executioner does it better. tags:pve
+dimwishlist:item=3347946548&perks=839105230,689005463,968510818,2594592626
+dimwishlist:item=3347946548&perks=839105230,689005463,968510818,1427256713
+
+
+// Heliocentric QSc (god-pve)
+//notes: Payn: PvE: This is another new gun that rolls with the Heal Clip/Incandescent roll. That seems like the play. tags:god-pve
+dimwishlist:item=3998080529&perks=4090651448,106909392,3017780555,4293542123
+
+
+// Heliocentric QSc (god-pvp)
+//notes: Payn: PvP: This is one of my favorite Archetypes in PvP. I really want the following tags:god-pvp
+dimwishlist:item=3998080529&perks=4090651448,3142289711,588594999,1015611457
+
+
+// Locus Locutus (god-pvp)
+//notes: Payn: I would not craft this for PvE. Stasis weapons loose 15% damage in that slot. If you need a sniper for PvE, you should be using a Kinetic.
+
+For PvP, it's not bad. A great 40 zoom value puts it in line with something like Beloved. I would craft it like this: tags:god-pvp
+dimwishlist:item=4132072834&perks=1840239774,3142289711,3619207468,47981717
+
 
 
