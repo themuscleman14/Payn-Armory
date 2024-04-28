@@ -996,3 +996,18 @@ dimwishlist:item=4287947559&perks=4090651448,3142289711,47981717,3978468247
 dimwishlist:item=4287947559&perks=4090651448,3142289711,4071163871,3978468247
 
 
+
+// Loaded Question (god-pve,god-pvp)
+//notes: Payn: PvP: Speaking of Controlled Burst... tags:god-pve,god-pvp
+dimwishlist:item=3125454907&perks=1482024992,3868766766,1645158859,2594592626,744217850
+
+
+// Loaded Question (god-pve)
+//notes: Payn: Pve: This is the original Pinnacle drop Fusion Rifle. It was very good back in the day. I would look for this drop though I am very curious about the new perk Controlled Burst tags:god-pve
+dimwishlist:item=3125454907&perks=1482024992,689005463,3643424744,1427256713,744217850
+
+
+// Loaded Question (pve)
+//notes: Payn: Pve: This is the original Pinnacle drop Fusion Rifle. It was very good back in the day. I would look for this drop though I am very curious about the new perk Controlled Burst tags:pve
+dimwishlist:item=3125454907&perks=1482024992,689005463,3643424744,1427256713,744217850
+dimwishlist:item=3125454907&perks=1482024992,689005463,3643424744,2594592626,744217850
