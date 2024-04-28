@@ -1857,4 +1857,34 @@ dimwishlist:item=3849444474&perks=852209214,3429800428,2848615171,4104185692,192
 //notes: Payn: From time to time we get seasonal bow mods from the artifact and they are very good against champs. For a roll for GMs and other champ content I would do this: tags:god-pve
 dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,3365897133,192157151
 
+// Sailspy Pitchglass (god-pve)
+//notes: Payn: PvE Unicorn: You can roll Vorpal on here if you need an Arc Linear but really you should be going for the Fusion from Duality, StormChaser if you want an Arc DPS Linear. Here, Voltshot is the way. tags:god-pve
+dimwishlist:item=1184309824&perks=4090651448,689005463,2284787283,2173046394,3907865655
+
+
+// Sailspy Pitchglass (pve)
+//notes: Payn: PvE Unicorn: You can roll Vorpal on here if you need an Arc Linear but really you should be going for the Fusion from Duality, StormChaser if you want an Arc DPS Linear. Here, Voltshot is the way. tags:pve
+dimwishlist:item=1184309824&perks=4090651448,689005463,2284787283,2173046394,3907865655
+dimwishlist:item=1184309824&perks=4090651448,689005463,2284787283,1546637391,3907865655
+
+
+// Brigand's Law (god-pve)
+//notes: Payn: PvE tags:god-pve
+dimwishlist:item=1298815317&perks=4090651448,106909392,2779035018,2173046394,3907865655
+
+
+// Tarnished Mettle (god-pve)
+//notes: Payn: PvE: I know there are different ways to run this, Explosive Payload is great but there are other scouts that you can roll that on. This should only be crafted and used for Voltshot. tags:god-pve
+dimwishlist:item=2218569744&perks=4090651448,106909392,3523296417,2173046394,3907865655
+
+
+// Tarnished Mettle (pve)
+//notes: Payn: PvE: I know there are different ways to run this, Explosive Payload is great but there are other scouts that you can roll that on. This should only be crafted and used for Voltshot. tags:pve
+dimwishlist:item=2218569744&perks=4090651448,106909392,3523296417,3038247973,3907865655
+dimwishlist:item=2218569744&perks=4090651448,106909392,3523296417,2173046394,3907865655
+
+
+// No Reprieve (god-pve)
+//notes: Payn: PvE: This has the capacity to deal a ton of DPS if you enhance both perks and it is a situation that you can get up in something's face. Situational, but really good. tags:god-pve
+dimwishlist:item=2531963421&perks=1482024992,791862061,3400784728,3708227201,3907865655
 
