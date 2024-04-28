@@ -1161,3 +1161,63 @@ dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3751912585,74
 dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3751912585,744217850
 dimwishlist:item=3915197957&perks=3525010810,3301904089,2284787283,3751912585,744217850
 
+// Vengeful Whisper (god-pve)
+//notes: Payn: PvE:
+First Strand Bow and it is pretty good. Explosive Head in the first column is always good in addition to Slice and Archer's Tempo. In the Second Column, I would go with Hatchling or Precision Instrument. tags:god-pve
+dimwishlist:item=839344841&perks=3371775011,3311977193,923806249,831391274,220689851
+
+
+// Vengeful Whisper (pve)
+//notes: Payn: PvE:
+First Strand Bow and it is pretty good. Explosive Head in the first column is always good in addition to Slice and Archer's Tempo. In the Second Column, I would go with Hatchling or Precision Instrument. tags:pve
+dimwishlist:item=839344841&perks=3371775011,3311977193,923806249,831391274,220689851
+dimwishlist:item=839344841&perks=3371775011,3311977193,923806249,555281244,220689851
+dimwishlist:item=839344841&perks=3371775011,3311977193,3365897133,831391274,220689851
+dimwishlist:item=839344841&perks=3371775011,3311977193,3365897133,555281244,220689851
+dimwishlist:item=839344841&perks=3371775011,3311977193,201365942,831391274,220689851
+dimwishlist:item=839344841&perks=3371775011,3311977193,201365942,555281244,220689851
+
+
+// Naeem's Lance (god-pve)
+//notes: Payn: PvE:
+This exists to fill an archetype. It's not exciting at all. Maybe a reconstruction/Precision instrument for DPS. But at that point, why not just use Supremacy? It is king in the slot and archetype. It also can roll slice so that's cool I guess... Really underwhelmed... tags:god-pve
+dimwishlist:item=2806569825&perks=1840239774,106909392,1523832109,555281244,220689851
+
+
+// Naeem's Lance (pve)
+//notes: Payn: PvE:
+This exists to fill an archetype. It's not exciting at all. Maybe a reconstruction/Precision instrument for DPS. But at that point, why not just use Supremacy? It is king in the slot and archetype. It also can roll slice so that's cool I guess... Really underwhelmed... tags:pve
+dimwishlist:item=2806569825&perks=1840239774,106909392,1523832109,555281244,220689851
+dimwishlist:item=2806569825&perks=1840239774,106909392,1523832109,923806249,220689851
+
+
+// Indebted Kindness (god-pve)
+//notes: Payn: PvE:
+First of its kind and it is very good. I highly encourage picking one up. In the first column you want either Beacon Rounds, Lead from Gold, or Impulse Amplifier. In the second column you want either Voltshot or Surrounded. In my experience it pops champ shields in one shot. tags:god-pve
+dimwishlist:item=3381450498&perks=1441682018,1380253176,951095735,2173046394,220689851
+
+
+// Indebted Kindness (pve)
+//notes: Payn: PvE:
+First of its kind and it is very good. I highly encourage picking one up. In the first column you want either Beacon Rounds, Lead from Gold, or Impulse Amplifier. In the second column you want either Voltshot or Surrounded. In my experience it pops champ shields in one shot. tags:pve
+dimwishlist:item=3381450498&perks=1441682018,1380253176,951095735,2173046394,220689851
+dimwishlist:item=3381450498&perks=1441682018,1380253176,951095735,3708227201,220689851
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1556840489,2173046394,220689851
+dimwishlist:item=3381450498&perks=1441682018,1380253176,1556840489,3708227201,220689851
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,2173046394,220689851
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,3708227201,220689851
+
+
+// Dragoncult Sickle (god-pve)
+//notes: Payn: PvE:
+Again, this exists to fill out the archetype. Roll Slice or demo in the first column and Hatchling or Chain Reaction in the second. Use it once and put it in the vault and hope Casters get a buff one day... tags:god-pve
+dimwishlist:item=3668817296&perks=3666208348,52780822,923806249,2396489472,220689851
+
+
+// Dragoncult Sickle (pve)
+//notes: Payn: PvE:
+Again, this exists to fill out the archetype. Roll Slice or demo in the first column and Hatchling or Chain Reaction in the second. Use it once and put it in the vault and hope Casters get a buff one day... tags:pve
+dimwishlist:item=3668817296&perks=3666208348,52780822,923806249,2396489472,220689851
+dimwishlist:item=3668817296&perks=3666208348,52780822,923806249,831391274,220689851
+dimwishlist:item=3668817296&perks=3666208348,52780822,3523296417,2396489472,220689851
+dimwishlist:item=3668817296&perks=3666208348,52780822,3523296417,831391274,220689851
