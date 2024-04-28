@@ -1302,3 +1302,239 @@ dimwishlist:item=4248569242&perks=4090651448,791862061,1523832109,2896038713,766
 //notes: Payn: PVP tags:god-pvp
 dimwishlist:item=4248569242&perks=4090651448,3142289711,4071163871,588594999,766321425
 
+// Abide the Return - Abide the Return (pve)
+//notes: Payn: Well. We are back with another sword. Big thing this has going for it is Turnabout in the first column that can be paired with either Incandescent or Whirlwind Blade for DPS. tags:pve
+dimwishlist:item=250721843&perks=3666208348,52780822,2209918983,4293542123,930692523
+
+
+// Vouchsafe - Vouchsafe (god-pve) (god-pve)
+//notes: Payn: This has always been a great scout. It is also the first one that can roll Repulsor Brace and Destabilizing Rounds. That's what I would keep it for. tags:god-pve
+dimwishlist:item=355922321&perks=1482024992,106909392,776531651,2048641572,930692523
+
+
+// Retold Tale - Retold Tale (pve) (pve)
+//notes: Payn: There are a couple of ways to go with this. The Repulsor Brace/Destabilizing Rounds route will always win. The only other Shotgun to roll with that is the Shotgun from RoN. That one is a slug so this one might be easier to run and gun with. You could also run Lead from Gold in the first column as well as One-Two Punch in the second if that is your thing. tags:pve
+dimwishlist:item=871900124&perks=4090651448,791862061,776531651,2048641572,930692523
+dimwishlist:item=871900124&perks=4090651448,791862061,776531651,2679249093,930692523
+dimwishlist:item=871900124&perks=4090651448,791862061,1556840489,2048641572,930692523
+dimwishlist:item=871900124&perks=4090651448,791862061,1556840489,2679249093,930692523
+
+
+// Retold Tale - Retold Tale (pvp) (pvp)
+//notes: Payn: It's a bit more limiting here but still some good stuff. Quickdraw and Slideshot in your first column and Snapshot, Killing Wind, or Barrel Constrictor in your second. Combine two you like and it can be a good shotty for PvP.  tags:pvp
+dimwishlist:item=871900124&perks=4090651448,3142289711,706527188,1451849462,930692523
+dimwishlist:item=871900124&perks=4090651448,3142289711,706527188,2450788523,930692523
+dimwishlist:item=871900124&perks=4090651448,3142289711,706527188,957782887,930692523
+dimwishlist:item=871900124&perks=4090651448,3142289711,3161816588,1451849462,930692523
+dimwishlist:item=871900124&perks=4090651448,3142289711,3161816588,2450788523,930692523
+dimwishlist:item=871900124&perks=4090651448,3142289711,3161816588,957782887,930692523
+
+
+// Eye of Sol - Eye of Sol (pvp) (pvp)
+//notes: Payn: This has been reissued a couple of times. The first iteration of it was the best and it took over crucible. This one isn't bad. Most players will opt for a roll that looks like this tags:pvp
+dimwishlist:item=1401300690&perks=1840239774,3142289711,588594999,47981717,1050127423
+
+
+// Crux Termination IV - Crux Termination IV (pve) (pve)
+//notes: Payn: This guy has some good perks. Clown Cartridge, Reconstruction, and Envious Assassin all in the first slot and bi-pod, Explosive Light, and Surrounded in the second slot plus the wild card trait which is phenomenal.  tags:pve
+dimwishlist:item=1719687748&perks=3798852852,3796465595,1523832109,3194351027,1050127423
+dimwishlist:item=1719687748&perks=3798852852,3796465595,1523832109,3708227201,1050127423
+dimwishlist:item=1719687748&perks=3798852852,3796465595,2284787283,3194351027,1050127423
+dimwishlist:item=1719687748&perks=3798852852,3796465595,2284787283,3708227201,1050127423
+dimwishlist:item=1719687748&perks=3798852852,3796465595,968510818,3194351027,1050127423
+dimwishlist:item=1719687748&perks=3798852852,3796465595,968510818,3708227201,1050127423
+
+
+// Twilight Oath - Twilight Oath (pve) (pve)
+//notes: Payn: Snipers got a substantial buff this season and are pretty good. The king of rapid fires though is the supremacy from Last Wish. But if you want a solar variant this can roll with some good perks depending on what you want it for. Heal Clip and Envious Assasin in the first column and Vorpal, Kill Clip, Precision Instrument, or Incandescent in the second. tags:pve
+dimwishlist:item=1874424704&perks=1840239774,106909392,968510818,1546637391,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,968510818,1015611457,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,968510818,555281244,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,968510818,4293542123,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,3017780555,1546637391,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,3017780555,1015611457,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,3017780555,555281244,930692523
+dimwishlist:item=1874424704&perks=1840239774,106909392,3017780555,4293542123,930692523
+
+
+// Twilight Oath - Twilight Oath (pvp) (pvp)
+//notes: Payn: Some people swear by this thing in the crucible. I don't like it but I cannot emphasize how important feel is with snipers. If you want to give it a try: tags:pvp
+dimwishlist:item=1874424704&perks=1840239774,3142289711,47981717,957782887,930692523
+
+
+// Breakneck - Breakneck (pve)
+//notes: Payn: For you fans of Gambit, Breakneck comes back. It is a drop from Gambit with 12 perks in each slot so good luck. There are two main perks you want to be on the lookout for in the second column and those are Onslaught and Kinetic Tremors. If you get either to drop, you are in a good place.  tags:pve
+dimwishlist:item=2026755633&perks=839105230,1087426260,1820235745,95528736,515704826
+dimwishlist:item=2026755633&perks=839105230,1087426260,1820235745,3891536761,515704826
+
+
+// Belisarius-D - Belisarius-D (pve) (pve)
+//notes: Payn: There is a nice roll for PvE... Slice and Hatchling. tags:pve
+dimwishlist:item=2313726158&perks=3661387068,1087426260,923806249,831391274,3465198467
+
+
+// Belisarius-D - Belisarius-D (pvp) (pvp)
+//notes: Payn: This thing is loaded for PvP. You can go any way that you want. I highly encourage Rapid Hit in the first column. Its recoil is a little wonky depending on what barrel you go with and Rapid Hit helps here. But if you want consistency, you have Eye of the Storm or Keep Away in that slot as well. In the second column you have Kill Clip, Moving Target, Headseeker, and Zen Moment. Do what you like. tags:pvp
+dimwishlist:item=2313726158&perks=3661387068,1885400500,247725512,460017080,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,247725512,588594999,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,247725512,1015611457,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,247725512,2387244414,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,3619207468,460017080,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,3619207468,588594999,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,3619207468,1015611457,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,3619207468,2387244414,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,699525795,460017080,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,699525795,588594999,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,699525795,1015611457,3465198467
+dimwishlist:item=2313726158&perks=3661387068,1885400500,699525795,2387244414,3465198467
+
+
+// Incisor (Adept) - Incisor (Adept) (pve) (pve)
+//notes: Payn: I'm not a huge fan of Trace Rifles for PvP so I will just give my rec for a PvE roll. There are some really good perks here. In the first column you have Slice, Envious Assassin, and Subsistence. In the second column you have Target Lock, Hatchling, Kill Clip, or Killing Tally. tags:pve
+dimwishlist:item=2421180981&perks=1482024992,2680121939,923806249,365154968,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,923806249,831391274,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,923806249,1015611457,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,923806249,557221067,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,365154968,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,831391274,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,1015611457,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,968510818,557221067,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,1820235745,365154968,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,1820235745,831391274,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,1820235745,1015611457,2988596335
+dimwishlist:item=2421180981&perks=1482024992,2680121939,1820235745,557221067,2988596335
+
+
+// Tigerspite - Tigerspite (pvp) (pvp)
+//notes: Payn: Autos are really good in PvP and so if you are one who likes to use them, this should not be overlooked. You could opt for Moving Target in the first column as well as Eye of the Storm in the second for consistency. I will go for Fragile Focus & Kill Clip. tags:pvp
+dimwishlist:item=2465372924&perks=839105230,1561002382,2451262963,1015611457
+dimwishlist:item=2465372924&perks=839105230,1561002382,2451262963,699525795
+dimwishlist:item=2465372924&perks=839105230,1561002382,588594999,1015611457
+dimwishlist:item=2465372924&perks=839105230,1561002382,588594999,699525795
+
+
+// Tigerspite - Tigerspite (pve) (pve)
+//notes: Payn: This was a fan favorite back in the day and it returns with some great perks. I would suggest either Overflow or Subsistence in the first column and Kinetic Tremors or Frenzy in the second. I'm a huge fan of Kinetic Tremors so that is what I am looking for. tags:pve
+dimwishlist:item=2465372924&perks=839105230,1087426260,1820235745,3891536761
+dimwishlist:item=2465372924&perks=839105230,1087426260,1820235745,4104185692
+dimwishlist:item=2465372924&perks=839105230,1087426260,3643424744,3891536761
+dimwishlist:item=2465372924&perks=839105230,1087426260,3643424744,4104185692
+
+
+// Albedo Wing - Albedo Wing (pve) (pve)
+//notes: Payn: Huge missed opportunity here to have a stasis glaive. Not a ton here to be excited about honestly. tags:pve
+dimwishlist:item=2680976411&perks=580685494,3721627275,2859149211,1782407750,1607056502
+
+
+// Ros Arago IV - Ros Arago IV (pve) (pve)
+//notes: Payn: This is the hands down winner of this season for World Drops. First Column has Rewind Rounds, Repulsor Brace, or Subsistence. Second Column you really just want Onslaught. Pair with Volatile Rounds and have fun. tags:pve
+dimwishlist:item=3583275737&perks=1482024992,106909392,1820235745,95528736,1050127423
+dimwishlist:item=3583275737&perks=1482024992,106909392,776531651,95528736,1050127423
+dimwishlist:item=3583275737&perks=1482024992,106909392,3418782618,95528736,1050127423
+
+
+// Lethophobia - Lethophobia (pve) (pve)
+//notes: Payn: This one is interesting and I am looking at it for one reason only, Disruption break. There are zero other bows with this on it and so using it in champ content or the like will give great returns. Combine it with the new perk Permeability to change its damage type to match your subclass and you are in for a great tool in your toolkit. tags:pve
+dimwishlist:item=3710082365&perks=3371775011,3429800428,2428997981,1683379515,3978094547
+
+
+// Waking Vigil - Waking Vigil (pve) (pve)
+//notes: Payn: Look, I understand nostalgia, but Nation of Beasts exists and it blows this thing out of the water in both PvE and PvP. But if you must: tags:pve
+dimwishlist:item=3723679465&perks=1482024992,1885400500,1168162263,2173046394,930692523
+
+
+// Waking Vigil - Waking Vigil (pvp) (pvp)
+//notes: Payn: Look, I understand nostalgia, but Nation of Beasts exists and it blows this thing out of the water in both PvE and PvP. But if you must: tags:pvp
+dimwishlist:item=3723679465&perks=1482024992,1885400500,247725512,1015611457,930692523
+
+
+// Marcato-45 - Marcato-45 (pve) (god-pve)
+//notes: Payn: This is a powerhouse as well. The new perk Slice is fantastic and I recommend it on anything it comes on. Combine it with the reissued Onslaught and you are in business. tags:god-pve
+dimwishlist:item=4233375372&perks=839105230,106909392,923806249,95528736,4008116374
+
+// Word of Crota - Word of Crota - Hunters (pve)
+//notes: Payn: For my hunter mains with Gyrfalcons--- Repulsor Brace with a damage perk is the way to go. Frenzy, Sword Logic, or Rampage. Since we can proc volatile rounds so easily, Destabalizing Rounds are not necessary so enjoy the extra damage. tags:pve
+dimwishlist:item=120706239&perks=1482024992,106909392,776531651,3425386926,1156201379
+dimwishlist:item=120706239&perks=1482024992,106909392,776531651,4104185692,1156201379
+dimwishlist:item=120706239&perks=1482024992,106909392,776531651,31345821,1156201379
+
+
+// Word of Crota - Word of Crota - Titans & Warlocks (pve)
+//notes: Payn: For my Warlock and Titan grenade builds:
+Demo plus a damage perk is always very good or you could slot in Destabilizing Rounds. Again, since you can run the fragment to give yourself volatile, I would opt for a damage perk. tags:pve
+dimwishlist:item=120706239&perks=1482024992,106909392,3523296417,4104185692
+dimwishlist:item=120706239&perks=1482024992,106909392,3523296417,2048641572
+
+
+// Word of Crota - Word of Crota - Explosions (pve)
+//notes: Payn: Everyone: EXPLOSIONS
+Pairing Dragonfly with Destabilizing Rounds and the Cursed Thrall Origin Perk= Profit. tags:pve
+dimwishlist:item=120706239&perks=1482024992,106909392,2848615171,2048641572,1156201379
+
+
+// Abyss Defiant - Abyss Defiant (god-pve) (god-pve)
+//notes: Payn: This has the unicorn of Heal Clip and Incandescent. That's how I would roll it. There are other great perks like Recon or Subsistence and Sword Logic or Tricorn but this is the only Auto and one of the only guns that can run this combo. I see it has the solar cousin of Last Wish's Age Old Bond with Repulsor Brace and Destabilizing Rounds. Same Archetype, same Unicorn gun. tags:god-pve
+dimwishlist:item=833898322&perks=4090651448,1087426260,3017780555,4293542123,1156201379
+
+
+// Oversoul Edict - Oversoul Edict (god-pve) (god-pve)
+//notes: Payn: This is the gun I think I am most excited for and the one that I will end of crafting both a PvE and PvP version of. For PvE, the godly Demo/Voltshot roll has got to be at the top of anyone's list. It is what I will be crafting. Of course, Sword Logic is there if you really like it. tags:god-pve
+dimwishlist:item=1098171824&perks=839105230,1087426260,3523296417,2173046394,1156201379
+
+
+// Oversoul Edict - Oversoul Edict (pvp) (pvp)
+//notes: Payn: For PvP, I am going Keep Away and Headseeker. You could make an argument for Encore and Damage perk if you like. Nothing wrong there but I love the interaction between Keep Away and Headseeker on a pulse. tags:pvp
+dimwishlist:item=1098171824&perks=839105230,1561002382,3619207468,460017080,1156201379
+
+
+// Fang of Ir Yût - Fang of Ir Yut (pve) (pve)
+//notes: Payn: There are a number of ways to run this. If you need a Hatchling Scout, here it is. Kill Clip, Tricorn, or Sword Logic will all be good as well. In the first column, Rewind Rounds or Shoot to loot are your best bets in PvE unless you just want the consistency of Rapid Hit. tags:pve
+dimwishlist:item=1432682459&perks=839105230,1968497646,3418782618,831391274,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3418782618,2610012052,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3418782618,1015611457,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3418782618,31345821,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3700496672,831391274,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3700496672,2610012052,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3700496672,1015611457,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,3700496672,31345821,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,247725512,831391274,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,247725512,2610012052,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,247725512,1015611457,1156201379
+dimwishlist:item=1432682459&perks=839105230,1968497646,247725512,31345821,1156201379
+
+
+// Song of Ir Yût - Song of Ir Yut - DPS (pve)
+//notes: Payn: This is a great gun with top tier rolls. You can run it a few different ways. For a DPS monster I would run Reconstruction or Rewind Rounds and Bait and Switch. tags:pve
+dimwishlist:item=2828278545&perks=839105230,1087426260,1523832109,3078487919,1156201379
+dimwishlist:item=2828278545&perks=839105230,1087426260,3418782618,3078487919,1156201379
+
+
+// Song of Ir Yût - Song of Ir Yut - Ad clear (pve)
+//notes: Payn: For a general ad clear I would run Unrelenting and either Volt Shot or Sword Logic. tags:pve
+dimwishlist:item=2828278545&perks=839105230,1087426260,3108830275,2173046394,1156201379
+dimwishlist:item=2828278545&perks=839105230,1087426260,3108830275,31345821,1156201379
+
+
+// Swordbreaker - Swordbreaker (pve) (pve)
+//notes: Payn: There are a ton of great perks on this shotgun. In the first column you have Pugilist, Subsistence, and Demo. Pick the one that fits your build. In the second you have surrounded, One-Two Punch, Sword Logic, and Tricorn. I am partial to One-Two Punch. I would stay away from Hatchling because you need a crit kill to proc it and that can be hard with this type of shot gun. tags:pve
+dimwishlist:item=3163900678&perks=1482024992,791862061,3523296417,2679249093
+dimwishlist:item=3163900678&perks=1482024992,791862061,3523296417,2610012052
+dimwishlist:item=3163900678&perks=1482024992,791862061,3523296417,31345821
+dimwishlist:item=3163900678&perks=1482024992,791862061,3523296417,3708227201
+dimwishlist:item=3163900678&perks=1482024992,791862061,1820235745,2679249093
+dimwishlist:item=3163900678&perks=1482024992,791862061,1820235745,2610012052
+dimwishlist:item=3163900678&perks=1482024992,791862061,1820235745,31345821
+dimwishlist:item=3163900678&perks=1482024992,791862061,1820235745,3708227201
+dimwishlist:item=3163900678&perks=1482024992,791862061,691659142,2679249093
+dimwishlist:item=3163900678&perks=1482024992,791862061,691659142,2610012052
+dimwishlist:item=3163900678&perks=1482024992,791862061,691659142,31345821
+dimwishlist:item=3163900678&perks=1482024992,791862061,691659142,3708227201
+
+
+// Swordbreaker - Swordbreaker (pvp) (pvp)
+//notes: Payn: I'm actually liking this a bit more for PvP honestly, it has a very good combo of Threat Detector and Opening Shot. You could also go Slideshot if you like. tags:pvp
+dimwishlist:item=3163900678&perks=1482024992,3142289711,4071163871,47981717,1156201379
+dimwishlist:item=3163900678&perks=1482024992,3142289711,3161816588,47981717,1156201379
+
+
+
