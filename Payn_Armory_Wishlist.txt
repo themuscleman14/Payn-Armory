@@ -2332,3 +2332,83 @@ dimwishlist:item=3885259140&perks=1482024992,3142289711,247725512,1015611457,148
 For PvE, it has some unicorn rolls. You can go all out and roll Rampage and Kill Clip which will be even easier to proc together now since KC is now refreshable. You could also go Rampage and Kinetic Tremors which I think is a top roll. If you missed out on an Adept Hung Jury from GMs, I would go with the Kinetic Tremors roll. For everyone else, Rampage and Explosive Payload will serve you very well, especially is Champion Content when Scouts are on the Artifact. tags:pve
 dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,3038247973,1489048135
 dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,1015611457,1489048135
+
+// Synchronic Roulette (god-pve)
+//notes: Payn: PvE- For those who do not want to wade into Trials for the Immortal, this is a great secondary option. I put 2500 kills on one before I got my Immortal. The difference is negligible in PvE to be perfectly honest. tags:god-pve
+dimwishlist:item=811403305&perks=4090651448,1087426260,968510818,831391274,164468655
+
+
+// Iterative Loop (god-pve)
+//notes: Payn: PvE-This is one of my favorite guns this season for both PvE and PvP. I will be crafting one for both if I ever get the red boarders to drop... tags:god-pve
+dimwishlist:item=1289796511&perks=1482024992,689005463,671806388,2173046394,164468655
+
+
+// Iterative Loop (god-pvp)
+//notes: Payn: PvP- You could also roll with Elemental Capacitor as well. tags:god-pvp
+dimwishlist:item=1289796511&perks=1482024992,3868766766,1645158859,1754714824,164468655
+
+
+// Iterative Loop (pvp)
+//notes: Payn: PvP- You could also roll with Elemental Capacitor as well. tags:pvp
+dimwishlist:item=1289796511&perks=1482024992,3868766766,1645158859,1754714824,164468655
+dimwishlist:item=1289796511&perks=1482024992,3868766766,1645158859,3511092054,164468655
+
+
+// Round Robin (god-pve)
+//notes: Payn: PvE- This can be run with Hatchling for a Strand build or it can be run with Tricorn. Kill Clip is also there but Tricorn is much better for PvE tags:god-pve
+dimwishlist:item=2034215657&perks=4090651448,1087426260,1820235745,2610012052,164468655
+
+
+// Round Robin (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=2034215657&perks=4090651448,1561002382,3619207468,1015611457,164468655
+
+
+// Round Robin (pve)
+//notes: Payn: PvE- This can be run with Hatchling for a Strand build or it can be run with Tricorn. Kill Clip is also there but Tricorn is much better for PvE tags:pve
+dimwishlist:item=2034215657&perks=4090651448,1087426260,1820235745,2610012052,164468655
+dimwishlist:item=2034215657&perks=4090651448,1087426260,1820235745,831391274,164468655
+dimwishlist:item=2034215657&perks=4090651448,1087426260,1820235745,1015611457,164468655
+
+
+// Circular Logic (god-pve)
+//notes: Payn: PvE- This is a great heavy option that can be crafted multiple ways. If you want a Target Lock or Tricorn Roll, go for it. Personally, I like to use the unique perks for the guns. I have a Hatchling roll that is very fun for ad clear. tags:god-pve
+dimwishlist:item=2187717691&perks=1482024992,1087426260,2779035018,831391274,164468655
+
+
+// Circular Logic (pve)
+//notes: Payn: PvE- This is a great heavy option that can be crafted multiple ways. If you want a Target Lock or Tricorn Roll, go for it. Personally, I like to use the unique perks for the guns. I have a Hatchling roll that is very fun for ad clear. tags:pve
+dimwishlist:item=2187717691&perks=1482024992,1087426260,2779035018,831391274,164468655
+dimwishlist:item=2187717691&perks=1482024992,1087426260,2779035018,365154968,164468655
+dimwishlist:item=2187717691&perks=1482024992,1087426260,2779035018,2610012052,164468655
+
+
+// Basso Ostinato (god-pve)
+//notes: Payn: PvE- Rapid Fire Shotties are still bad but this one can be fun with Destabilizing Rounds. tags:god-pve
+dimwishlist:item=2573900604&perks=4090651448,3177308360,1556840489,2048641572,164468655
+
+
+// Phyllotactic Spiral (god-pve)
+//notes: Payn: PvE--- There are some good perks in the last column but I don't see a reason not to go with Voltshot. tags:god-pve
+dimwishlist:item=3635821806&perks=1482024992,1561002382,671806388,2173046394,164468655
+
+
+// Phyllotactic Spiral (god-pvp)
+//notes: Payn: PvP- I'm all about consistency here. Kill Clip is there if you really like it but I am looking at this roll. tags:god-pvp
+dimwishlist:item=3635821806&perks=1482024992,1561002382,3619207468,460017080,164468655
+
+
+// Phyllotactic Spiral (pvp)
+//notes: Payn: PvP- I'm all about consistency here. Kill Clip is there if you really like it but I am looking at this roll. tags:pvp
+dimwishlist:item=3635821806&perks=1482024992,1561002382,3619207468,460017080,164468655
+dimwishlist:item=3635821806&perks=1482024992,1561002382,3619207468,1015611457,164468655
+
+
+// Volta Bracket (god-pve)
+//notes: Payn: PvE- In my opinion, this is a very meh weapon. I won't be crafting it. If you need a sniper for DPS you can run this roll. tags:god-pve
+dimwishlist:item=3920310144&perks=1482024992,106909392,3400784728,1771339417,164468655
+
+
+// Volta Bracket (god-pvp)
+//notes: Payn: PvP- It is at least interesting for PvP. I would craft it like this... tags:god-pvp
+dimwishlist:item=3920310144&perks=1482024992,3142289711,3619207468,47981717,164468655
