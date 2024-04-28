@@ -2412,3 +2412,143 @@ dimwishlist:item=3920310144&perks=1482024992,106909392,3400784728,1771339417,164
 // Volta Bracket (god-pvp)
 //notes: Payn: PvP- It is at least interesting for PvP. I would craft it like this... tags:god-pvp
 dimwishlist:item=3920310144&perks=1482024992,3142289711,3619207468,47981717,164468655
+
+// Nessa's Oblation (god-pve)
+//notes: Payn: PvE--- Again, tons of different ways you can roll this. Demo, Reconstruction, Dragonfly in the first column, Frenzy, Paracausal, Vorpal in the second. You can't really go wrong. I will throw a few rolls down here to give example to some fun combos. The top one is what I'm going with. tags:god-pve
+dimwishlist:item=135029084&perks=1482024992,791862061,776531651,2048641572,3186078099
+
+
+// Nessa's Oblation (god-pve)
+//notes: Payn: DPS tags:god-pve
+dimwishlist:item=135029084&perks=1482024992,791862061,1523832109,2896038713,3186078099
+
+
+// Nessa's Oblation (god-pve)
+//notes: Payn: DPS Alt tags:god-pve
+dimwishlist:item=135029084&perks=1482024992,791862061,1523832109,1546637391,3186078099
+
+
+// Nessa's Oblation (god-pve)
+//notes: Payn: HAHA Shotty go boom tags:god-pve
+dimwishlist:item=135029084&perks=1482024992,791862061,2848615171,2048641572,3186078099
+
+
+// Mykel's Reverence (god-pve)
+//notes: Payn: PvE- This is much like the Auto, you can craft it to fit a Strand build or just be an all around great gun. Also, the mid season patch is going to but Sidearms at the top of the Primary DPS chart. This should be in everyone's inventory for general play. tags:god-pve
+dimwishlist:item=231031173&perks=1482024992,1885400500,3108830275,3215448563,3186078099
+
+
+// Rufus's Fury (god-pve)
+//notes: Payn: PvE- There are great perks on this all the way around. I don't think you can go wrong with the different ways to craft it. I chose to go with the raid perk Paracausal Affinity. In the first column you can't go wrong with Reconstruction or Rewind Rounds but I chose Demo. tags:god-pve
+dimwishlist:item=484515708&perks=1482024992,1087426260,3523296417,3215448563,3186078099
+
+
+// Rufus's Fury (pve)
+//notes: Payn: PvE- There are great perks on this all the way around. I don't think you can go wrong with the different ways to craft it. I chose to go with the raid perk Paracausal Affinity. In the first column you can't go wrong with Reconstruction or Rewind Rounds but I chose Demo. tags:pve
+dimwishlist:item=484515708&perks=1482024992,1087426260,3523296417,3215448563,3186078099
+dimwishlist:item=484515708&perks=1482024992,1087426260,1523832109,3215448563,3186078099
+dimwishlist:item=484515708&perks=1482024992,1087426260,3418782618,3215448563,3186078099
+
+
+// Acasia's Dejection (god-pve)
+//notes: Payn: PvE--- There are really three interesting perks here in the final column: Paracausal, Incandescent, and Target Lock. I will probably opt for Incandescent. tags:god-pve
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,4293542123,3186078099
+
+
+// Acasia's Dejection (pve)
+//notes: Payn: PvE--- There are really three interesting perks here in the final column: Paracausal, Incandescent, and Target Lock. I will probably opt for Incandescent. tags:pve
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,4293542123,3186078099
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,3215448563,3186078099
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,365154968,3186078099
+
+
+// Briar's Contempt (god-pve)
+//notes: Payn: PvE--- If you want a point a shoot gun, go with Focused Fury in the final column but to get the best damage buff, go with Paracausal Affinity. It requires a kill from another gun but if you have the ability to do it, it will be the best damage buff in that slot. tags:god-pve
+dimwishlist:item=1491665733&perks=1482024992,689005463,1523832109,3215448563,3186078099
+
+
+// Briar's Contempt (pve)
+//notes: Payn: PvE--- If you want a point a shoot gun, go with Focused Fury in the final column but to get the best damage buff, go with Paracausal Affinity. It requires a kill from another gun but if you have the ability to do it, it will be the best damage buff in that slot. tags:pve
+dimwishlist:item=1491665733&perks=1482024992,689005463,1523832109,3215448563,3186078099
+dimwishlist:item=1491665733&perks=1482024992,689005463,1523832109,2896038713,3186078099
+
+
+// Koraxis's Distress (god-pve)
+//notes: Payn: PvE- I want one that will jive with a strand build so Hatchling it is but I have one will Paracausal on it and it is just fine if you wanted to go with that. I also can't pass up Chain Reaction in the first column. tags:god-pve
+dimwishlist:item=2972949637&perks=1441682018,3301904089,2396489472,831391274,3186078099
+
+
+// Koraxis's Distress (pve)
+//notes: Payn: PvE- I want one that will jive with a strand build so Hatchling it is but I have one will Paracausal on it and it is just fine if you wanted to go with that. I also can't pass up Chain Reaction in the first column. tags:pve
+dimwishlist:item=2972949637&perks=1441682018,3301904089,2396489472,831391274,3186078099
+dimwishlist:item=2972949637&perks=1441682018,3301904089,2396489472,3215448563,3186078099
+
+// Nessa's Oblation Adept (god-pve)
+//notes: Payn: PvE--- Again, tons of different ways you can roll this. Demo, Reconstruction, Dragonfly in the first column, Frenzy, Paracausal, Vorpal in the second. You can't really go wrong. I will throw a few rolls down here to give example to some fun combos. The top one is what I'm going with. tags:god-pve
+dimwishlist:item=522366885&perks=1482024992,791862061,776531651,2048641572,3186078099
+
+
+// Nessa's Oblation Adept (god-pve)
+//notes: Payn: DPS tags:god-pve
+dimwishlist:item=522366885&perks=1482024992,791862061,1523832109,2896038713,3186078099
+
+
+// Nessa's Oblation Adept (god-pve)
+//notes: Payn: DPS Alt tags:god-pve
+dimwishlist:item=522366885&perks=1482024992,791862061,1523832109,1546637391,3186078099
+
+
+// Nessa's Oblation Adept (god-pve)
+//notes: Payn: HAHA Shotty go boom tags:god-pve
+dimwishlist:item=522366885&perks=1482024992,791862061,2848615171,2048641572,3186078099
+
+
+// Mykel's Reverence Adept (god-pve)
+//notes: Payn: PvE- This is much like the Auto, you can craft it to fit a Strand build or just be an all around great gun. Also, the mid season patch is going to but Sidearms at the top of the Primary DPS chart. This should be in everyone's inventory for general play. tags:god-pve
+dimwishlist:item=1986287028&perks=1482024992,1885400500,3108830275,3215448563,3186078099
+
+
+// Rufus's Fury Adept (god-pve)
+//notes: Payn: PvE- There are great perks on this all the way around. I don't think you can go wrong with the different ways to craft it. I chose to go with the raid perk Paracausal Affinity. In the first column you can't go wrong with Reconstruction or Rewind Rounds but I chose Demo. tags:god-pve
+dimwishlist:item=342514437&perks=1482024992,1087426260,3523296417,3215448563,3186078099
+
+
+// Rufus's Fury Adept (pve)
+//notes: Payn: PvE- There are great perks on this all the way around. I don't think you can go wrong with the different ways to craft it. I chose to go with the raid perk Paracausal Affinity. In the first column you can't go wrong with Reconstruction or Rewind Rounds but I chose Demo. tags:pve
+dimwishlist:item=342514437&perks=1482024992,1087426260,3523296417,3215448563,3186078099
+dimwishlist:item=342514437&perks=1482024992,1087426260,1523832109,3215448563,3186078099
+dimwishlist:item=342514437&perks=1482024992,1087426260,3418782618,3215448563,3186078099
+
+
+// Acasia's Dejection Adept (god-pve)
+//notes: Payn: PvE--- There are really three interesting perks here in the final column: Paracausal, Incandescent, and Target Lock. I will probably opt for Incandescent. tags:god-pve
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,4293542123,3186078099
+
+
+// Acasia's Dejection Adept (pve)
+//notes: Payn: PvE--- There are really three interesting perks here in the final column: Paracausal, Incandescent, and Target Lock. I will probably opt for Incandescent. tags:pve
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,4293542123,3186078099
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,3215448563,3186078099
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,365154968,3186078099
+
+
+// Briar's Contempt Adept (god-pve)
+//notes: Payn: PvE--- If you want a point a shoot gun, go with Focused Fury in the final column but to get the best damage buff, go with Paracausal Affinity. It requires a kill from another gun but if you have the ability to do it, it will be the best damage buff in that slot. tags:god-pve
+dimwishlist:item=2890082420&perks=1482024992,689005463,1523832109,3215448563,3186078099
+
+
+// Briar's Contempt Adept (pve)
+//notes: Payn: PvE--- If you want a point a shoot gun, go with Focused Fury in the final column but to get the best damage buff, go with Paracausal Affinity. It requires a kill from another gun but if you have the ability to do it, it will be the best damage buff in that slot. tags:pve
+dimwishlist:item=2890082420&perks=1482024992,689005463,1523832109,3215448563,3186078099
+dimwishlist:item=2890082420&perks=1482024992,689005463,1523832109,2896038713,3186078099
+
+
+// Koraxis's Distress Adept (god-pve)
+//notes: Payn: PvE- I want one that will jive with a strand build so Hatchling it is but I have one will Paracausal on it and it is just fine if you wanted to go with that. I also can't pass up Chain Reaction in the first column. tags:god-pve
+dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,831391274,3186078099
+
+
+// Koraxis's Distress Adept (pve)
+//notes: Payn: PvE- I want one that will jive with a strand build so Hatchling it is but I have one will Paracausal on it and it is just fine if you wanted to go with that. I also can't pass up Chain Reaction in the first column. tags:pve
+dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,831391274,3186078099
+dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,3215448563,3186078099
