@@ -1537,4 +1537,163 @@ dimwishlist:item=3163900678&perks=1482024992,3142289711,4071163871,47981717,1156
 dimwishlist:item=3163900678&perks=1482024992,3142289711,3161816588,47981717,1156201379
 
 
+title:Payn Season 20 Season of Defiance
+
+// Raconteur (god-pve)
+//notes: Payn: PvE- There are a couple of great ways to run this bow. For a stasis build, headstone is there. Personally, I prefer this archetype rather than the Lunalata from a couple of seasons ago. Rampage is also present in the final slot as well as explosive head which is always good for Champ content. Mine will be a Rampage roll. I also kept an Archer's Tempo and Headstone Roll. tags:god-pve
+dimwishlist:item=45643573&perks=852209214,3429800428,3592538738,3425386926,1823011807
+
+
+// Raconteur (pve)
+//notes: Payn: PvE- There are a couple of great ways to run this bow. For a stasis build, headstone is there. Personally, I prefer this archetype rather than the Lunalata from a couple of seasons ago. Rampage is also present in the final slot as well as explosive head which is always good for Champ content. Mine will be a Rampage roll. I also kept an Archer's Tempo and Headstone Roll. tags:pve
+dimwishlist:item=45643573&perks=852209214,3429800428,3592538738,3425386926,1823011807
+dimwishlist:item=45643573&perks=852209214,3429800428,3592538738,124408337,1823011807
+dimwishlist:item=45643573&perks=852209214,3429800428,3592538738,3365897133,1823011807
+dimwishlist:item=45643573&perks=852209214,3429800428,201365942,3425386926,1823011807
+dimwishlist:item=45643573&perks=852209214,3429800428,201365942,124408337,1823011807
+dimwishlist:item=45643573&perks=852209214,3429800428,201365942,3365897133,1823011807
+
+
+// Regnant (god-pve)
+//notes: Payn: PvE- If you want to run Explosive light for a DPS launcher, go ahead. I personally use this for ad clear and so I opted for Destabilizing Rounds. tags:god-pve
+dimwishlist:item=268260372&perks=1441682018,3301904089,3300816228,2048641572,1823011807
+
+
+// Regnant (pve)
+//notes: Payn: PvE- If you want to run Explosive light for a DPS launcher, go ahead. I personally use this for ad clear and so I opted for Destabilizing Rounds. tags:pve
+dimwishlist:item=268260372&perks=1441682018,3301904089,3300816228,3194351027,1823011807
+dimwishlist:item=268260372&perks=1441682018,3301904089,3300816228,2048641572,1823011807
+
+
+// Prodigal Return (god-pve)
+//notes: Payn: PvE- There are tons of great perks on this launcher but I am going with the Unicorn. It is the only launcher with volt shot. tags:god-pve
+dimwishlist:item=268260373&perks=3798852852,3301904089,1556840489,2173046394,1823011807
+
+
+// Imperial Decree (god-pvp)
+//notes: Payn: PvP- This is my new favorite shotgun in PvP. If you wanted to craft a PvE roll, it does come with Trench Barrel or Surrounded... tags:god-pvp
+dimwishlist:item=318443586&perks=4090651448,3142289711,4071163871,47981717,1905044254
+
+
+// Imperial Decree (pve)
+//notes: Payn: PvE roll, it does come with Trench Barrel or Surrounded... tags:pve
+dimwishlist:item=318443586&perks=4090651448,3142289711,4071163871,2360754333,1905044254
+dimwishlist:item=318443586&perks=4090651448,3142289711,4071163871,3708227201,1905044254
+
+
+// Perpetualis (god-pve)
+//notes: Payn: PvE- For a strand build, Hatchling is a great perk. For all around uses, you can always go Tricorn or Target Lock. I have a Tricorn roll I am enjoying. tags:god-pve
+dimwishlist:item=392008588&perks=4090651448,106909392,968510818,831391274,1823011807
+
+
+// Perpetualis (pve)
+//notes: Payn: PvE- For a strand build, Hatchling is a great perk. For all around uses, you can always go Tricorn or Target Lock. I have a Tricorn roll I am enjoying. tags:pve
+dimwishlist:item=392008588&perks=4090651448,106909392,968510818,831391274,1823011807
+dimwishlist:item=392008588&perks=4090651448,106909392,968510818,365154968,1823011807
+dimwishlist:item=392008588&perks=4090651448,106909392,968510818,2610012052,1823011807
+
+
+// The Hero's Burden (god-pve)
+//notes: Payn: PvE- There is only one reason to run this gun. Remember you can focus your engrams to try to get the roll you want. tags:god-pve
+dimwishlist:item=1028124540&perks=1482024992,106909392,2779035018,2048641572,4008116374
+
+
+// Harsh Language (god-pve)
+//notes: Payn: PvE--- Good luck getting one to drop... tags:god-pve
+dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2048641572,2120661319
+
+
+// Royal Executioner (god-pve)
+//notes: Payn: PvE- This is used for explosions. If you like Incandescent, go with that, but Reservoir Burst being able to be overflowed by Envious Assassin means you can get 12 shots of RB. Remember, it also has somewhere in the neighborhood of a 15% damage increase when RB is active. tags:god-pve
+dimwishlist:item=1720503118&perks=1482024992,2680121939,968510818,1427256713,1823011807
+
+
+// Royal Executioner (pve)
+//notes: Payn: PvE- This is used for explosions. If you like Incandescent, go with that, but Reservoir Burst being able to be overflowed by Envious Assassin means you can get 12 shots of RB. Remember, it also has somewhere in the neighborhood of a 15% damage increase when RB is active. tags:pve
+dimwishlist:item=1720503118&perks=1482024992,2680121939,968510818,1427256713,1823011807
+dimwishlist:item=1720503118&perks=1482024992,2680121939,968510818,4293542123,1823011807
+
+
+// Battle Scar (god-pve)
+//notes: Payn: PvE--- There is only one roll that makes this gun worth it. Kinetic Tremors does proc Shoot to Loot. tags:god-pve
+dimwishlist:item=2099894368&perks=1482024992,106909392,3700496672,3891536761,2120661319
+
+
+// Caretaker (god-pve)
+//notes: Payn: PvE- The draw from this sword is it is the first to roll with Incandescent. I will not be crafting it but I did keep the following roll in the vault. If you absolutely love this sword, it can also roll with great perks like One for All or Surrounded. tags:god-pve
+dimwishlist:item=2508948099&perks=3666208348,2349202967,1749209109,4293542123,1823011807
+
+
+// Caretaker (pve)
+//notes: Payn: PvE- The draw from this sword is it is the first to roll with Incandescent. I will not be crafting it but I did keep the following roll in the vault. If you absolutely love this sword, it can also roll with great perks like One for All or Surrounded. tags:pve
+dimwishlist:item=2508948099&perks=3666208348,2349202967,1749209109,4293542123,1823011807
+dimwishlist:item=2508948099&perks=3666208348,2349202967,1749209109,3708227201,1823011807
+dimwishlist:item=2508948099&perks=3666208348,2349202967,1749209109,4049631843,1823011807
+
+
+// Autumn Wind (god-pvp)
+//notes: Payn: PvP--- There are a ton of perks and I know most people will gravitate to the Rampage and stuff but I swear by this roll. tags:god-pvp
+dimwishlist:item=3110377595&perks=1482024992,1885400500,2846385770,460017080,4091460919
+
+
+// Autumn Wind (god-pve)
+//notes: Payn: If you wanted one for PvE I would go: tags:god-pve
+dimwishlist:item=3110377595&perks=1482024992,1885400500,3523296417,3425386926,4091460919
+
+
+// Throne-Cleaver (god-pve)
+//notes: Payn: This is one of my favorite swords to run for my Titan. There are two ways to run this, either an ad clear variant or a DPS/Chunk damage variant.
+For the ad clear enhanced Incandescent does a ton of work, especially paired with Synthos. For your first perk, you can either go Thresh which is what I crafted or Unrelenting. tags:god-pve
+dimwishlist:item=3371413059&perks=2827049491,2349202967,2726471870,4293542123,1905044254
+
+
+// Throne-Cleaver (god-pve)
+//notes: Payn: For a more chunk damage sword roll with with Tireless Blade and Surrounded or Vorpal. I prefer Surrounded. tags:god-pve
+dimwishlist:item=3371413059&perks=2827049491,2349202967,3705817207,3708227201,1905044254
+
+
+// Throne-Cleaver (pve)
+//notes: Payn: This is one of my favorite swords to run for my Titan. There are two ways to run this, either an ad clear variant or a DPS/Chunk damage variant.
+For the ad clear enhanced Incandescent does a ton of work, especially paired with Synthos. For your first perk, you can either go Thresh which is what I crafted or Unrelenting. tags:pve
+dimwishlist:item=3371413059&perks=2827049491,2349202967,2726471870,4293542123,1905044254
+dimwishlist:item=3371413059&perks=2827049491,2349202967,3108830275,4293542123,1905044254
+
+
+// Throne-Cleaver (pve)
+//notes: Payn: For a more chunk damage sword roll with with Tireless Blade and Surrounded or Vorpal. I prefer Surrounded. tags:pve
+dimwishlist:item=3371413059&perks=2827049491,2349202967,3705817207,3708227201,1905044254
+dimwishlist:item=3371413059&perks=2827049491,2349202967,3705817207,1546637391,1905044254
+
+
+// The Immortal (god-pve)
+//notes: Payn: PvE- For your Stand Builds, the stock one from this past week is very good. tags:god-pve
+dimwishlist:item=4039572196&perks=4090651448,1885400500,4071163871,831391274,2120661319
+
+
+// The Immortal (god-pvp)
+//notes: Payn: PvP- Rangefinder and Target Lock are the META but I would save a Rangefinder and Kill Clip roll just in case... tags:god-pvp
+dimwishlist:item=4039572196&perks=4090651448,1885400500,2846385770,365154968,2120661319
+
+
+// The Immortal (pvp)
+//notes: Payn: PvP- Rangefinder and Target Lock are the META but I would save a Rangefinder and Kill Clip roll just in case... tags:pvp
+dimwishlist:item=4039572196&perks=4090651448,1885400500,2846385770,365154968,2120661319
+dimwishlist:item=4039572196&perks=4090651448,1885400500,2846385770,1015611457,2120661319
+
+
+// The Immortal Adept (god-pve)
+//notes: Payn: PvE- For your Stand Builds, the stock one from this past week is very good. tags:god-pve
+dimwishlist:item=3193598749&perks=4090651448,1885400500,4071163871,831391274,2120661319
+
+
+// The Immortal Adept (god-pvp)
+//notes: Payn: PvP- Rangefinder and Target Lock are the META but I would save a Rangefinder and Kill Clip roll just in case... tags:god-pvp
+dimwishlist:item=3193598749&perks=4090651448,1885400500,2846385770,365154968,2120661319
+
+
+// The Immortal Adept (pvp)
+//notes: Payn: PvP- Rangefinder and Target Lock are the META but I would save a Rangefinder and Kill Clip roll just in case... tags:pvp
+dimwishlist:item=3193598749&perks=4090651448,1885400500,2846385770,365154968,2120661319
+dimwishlist:item=3193598749&perks=4090651448,1885400500,2846385770,1015611457,2120661319
+
 
