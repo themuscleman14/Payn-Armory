@@ -995,19 +995,169 @@ dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,4049631843
 dimwishlist:item=4287947559&perks=4090651448,3142289711,47981717,3978468247
 dimwishlist:item=4287947559&perks=4090651448,3142289711,4071163871,3978468247
 
+// Warden's Law (Adept) (god-pve)
+//notes: Payn: PvE: This could be very good in PvE. Your second column has all the damage perks you could want so pick your favorite and go. I like the new perk Enlightened Action in the first column but you could go Discord, Fourth Times or one of the Consistency perks too. My roll would be tags:god-pve
+dimwishlist:item=267089201&perks=4090651448,106909392,3828510309,3425386926,744217850
 
 
-// Loaded Question (god-pve,god-pvp)
-//notes: Payn: PvP: Speaking of Controlled Burst... tags:god-pve,god-pvp
-dimwishlist:item=3125454907&perks=1482024992,3868766766,1645158859,2594592626,744217850
+// Warden's Law (Adept) (pve)
+//notes: Payn: PvE: This could be very good in PvE. Your second column has all the damage perks you could want so pick your favorite and go. I like the new perk Enlightened Action in the first column but you could go Discord, Fourth Times or one of the Consistency perks too.  tags:pve
+dimwishlist:item=267089201&perks=4090651448,106909392,3828510309,3425386926,744217850
+dimwishlist:item=267089201&perks=4090651448,106909392,3978468247,3425386926,744217850
+dimwishlist:item=267089201&perks=4090651448,106909392,1354429876,3425386926,744217850
 
 
-// Loaded Question (god-pve)
+// Pre Astyanax IV (Adept) (god-pve)
+//notes: Payn: PvE: I'm really excited for this bow. I think it is going to be very good. You could go a number of ways but I think the best is Archer's Tempo and Incandescent. Shoot to Loot with Explosive Head would be a close second. tags:god-pve
+dimwishlist:item=496556698&perks=1784898267,3429800428,201365942,4293542123,744217850
+
+
+// Pre Astyanax IV (Adept) (pve)
+//notes: Payn: PvE: I'm really excited for this bow. I think it is going to be very good. You could go a number of ways but I think the best is Archer's Tempo and Incandescent. Shoot to Loot with Explosive Head would be a close second. tags:pve
+dimwishlist:item=496556698&perks=1784898267,3429800428,201365942,4293542123,744217850
+dimwishlist:item=496556698&perks=1784898267,3429800428,201365942,3365897133,744217850
+dimwishlist:item=496556698&perks=1784898267,3429800428,3700496672,4293542123,744217850
+dimwishlist:item=496556698&perks=1784898267,3429800428,3700496672,3365897133,744217850
+
+
+// THE SWARM (Adept) (god-pve)
+//notes: Payn: PvE--- There are a couple of ways to run this. You can do add clear with Feeding Frenzy and Dragon Fly or Tricorn. Genesis is also good in the first slot. tags:god-pve
+dimwishlist:item=566740455&perks=4090651448,106909392,3096702027,365154968,744217850
+
+
+// THE SWARM (Adept) (pve)
+//notes: Payn: PvE--- There are a couple of ways to run this. You can do add clear with Feeding Frenzy and Dragon Fly or Tricorn. Genesis is also good in the first slot. tags:pve
+dimwishlist:item=566740455&perks=4090651448,106909392,3096702027,365154968,744217850
+dimwishlist:item=566740455&perks=4090651448,106909392,3096702027,2848615171,744217850
+dimwishlist:item=566740455&perks=4090651448,106909392,3096702027,2610012052,744217850
+dimwishlist:item=566740455&perks=4090651448,106909392,2779035018,365154968,744217850
+dimwishlist:item=566740455&perks=4090651448,106909392,2779035018,2848615171,744217850
+dimwishlist:item=566740455&perks=4090651448,106909392,2779035018,2610012052,744217850
+
+
+// Undercurrent (Adept) (god-pve)
+//notes: Payn: PvE:
+This is going to have stiff competition in the craftable waveframe from Vow of the Disciple. There will have to be a discussion on do you want Chain Reaction or do you want Voltshot?
+If you do opt for this one, Ambitious Assassin or Demo in first slot and Volt Shot in the second would be very good for ad clear. tags:god-pve
+dimwishlist:item=672957262&perks=3798852852,2822142346,2010801679,2173046394,744217850
+
+
+// Undercurrent (Adept) (pve)
+//notes: Payn: PvE:
+This is going to have stiff competition in the craftable waveframe from Vow of the Disciple. There will have to be a discussion on do you want Chain Reaction or do you want Voltshot?
+If you do opt for this one, Ambitious Assassin or Demo in first slot and Volt Shot in the second would be very good for ad clear. tags:pve
+dimwishlist:item=672957262&perks=3798852852,2822142346,2010801679,2173046394,744217850
+dimwishlist:item=672957262&perks=3798852852,2822142346,3523296417,2173046394,744217850
+
+
+// Buzzard (Adept) (god-pve)
+//notes: Payn: PvE--- You could run Frenzy or Vorpal on it if you really want to but I feel like the only reason to run it in PvE is with Kinetic Tremors. tags:god-pve
+dimwishlist:item=927835311&perks=4090651448,1087426260,3643424744,3891536761,744217850
+
+
+// Buzzard (Adept) (god-pvp)
+//notes: Payn: PvP--- Back in the day, this was my favorite PvP sidearm. It is back and really good. tags:god-pvp
+dimwishlist:item=927835311&perks=4090651448,1561002382,1195158366,2458213969,744217850
+
+
+// Buzzard (Adept) (pve)
+//notes: Payn: PvE--- You could run Frenzy or Vorpal on it if you really want to but I feel like the only reason to run it in PvE is with Kinetic Tremors. tags:pve
+dimwishlist:item=927835311&perks=4090651448,1087426260,3643424744,3891536761,744217850
+dimwishlist:item=927835311&perks=4090651448,1087426260,3643424744,4104185692,744217850
+dimwishlist:item=927835311&perks=4090651448,1087426260,3643424744,1546637391,744217850
+
+
+// Wild Style (Adept) (god-pve)
+//notes: Payn: PvE:
+This is a unicorn. I would either go Envious Assassin or Unrelenting in the first column and than Incandescent in the second. tags:god-pve
+dimwishlist:item=959037361&perks=3798852852,3301904089,968510818,4293542123,2437618208
+
+
+// Wild Style (Adept) (pve)
+//notes: Payn: PvE:
+This is a unicorn. I would either go Envious Assassin or Unrelenting in the first column and than Incandescent in the second. tags:pve
+dimwishlist:item=959037361&perks=3798852852,3301904089,968510818,4293542123,2437618208
+dimwishlist:item=959037361&perks=3798852852,3301904089,3108830275,4293542123,2437618208
+
+
+// BrayTech Osprey (Adept) (god-pve)
+//notes: Payn: PvE: This is a reprise from year one of Destiny. Many of us Veterans have PTSD from grinding the one nightfall it dropped from just to get a certain title in the game... Its back and it had a good number of great ad clear perks. I would run Cluster Bombs in the first slot and either Destabalizing Round or Chain Reaction in the second. tags:god-pve
+dimwishlist:item=1064132738&perks=3798852852,3796465595,1275731761,2048641572,744217850
+
+
+// BrayTech Osprey (Adept) (god-pve)
+//notes: Payn: PvE DPS: It does have Envious Assassin in the first slot but that is too situational for me. tags:god-pve
+dimwishlist:item=1064132738&perks=3798852852,3796465595,3300816228,3927722942,744217850
+
+
+// BrayTech Osprey (Adept) (pve)
+//notes: Payn: PvE: This is a reprise from year one of Destiny. Many of us Veterans have PTSD from grinding the one nightfall it dropped from just to get a certain title in the game... Its back and it had a good number of great ad clear perks. I would run Cluster Bombs in the first slot and either Destabalizing Round or Chain Reaction in the second. tags:pve
+dimwishlist:item=1064132738&perks=3798852852,3796465595,1275731761,2048641572,744217850
+dimwishlist:item=1064132738&perks=3798852852,3796465595,1275731761,2396489472,744217850
+
+
+// BrayTech Osprey (Adept) (pve)
+//notes: Payn: PvE DPS: It does have Envious Assassin in the first slot but that is too situational for me. tags:pve
+dimwishlist:item=1064132738&perks=3798852852,3796465595,3300816228,3927722942,744217850
+dimwishlist:item=1064132738&perks=3798852852,3796465595,968510818,3927722942,744217850
+
+
+// The Slammer (Adept) (god-pve)
+//notes: PvE:
+For ad clear there is really only one thing I would look for tags:god-pve
+dimwishlist:item=1354727549&perks=3666208348,52780822,2396489472,3650930298,744217850
+
+
+// The Slammer (Adept) (god-pve)
+//notes: PvE:
+For DPS you want tags:god-pve
+dimwishlist:item=1354727549&perks=3666208348,52780822,1749209109,3078487919,744217850
+
+
+// Uzume RR4 (Adept) (god-pve)
+//notes: Payn: PvE: Season 23 sees the return of this sniper. It is good all around. If you want an ad clear sniper roll Lead from Gold or Discord with Incandescent. If you want a good champ killer, Fourth Times the Charm and either Explosive Payload or Vorpal. Vorpal of course also helps with Boss DPS. tags:god-pve
+dimwishlist:item=1891996599&perks=1840239774,106909392,1354429876,1546637391,744217850
+
+
+// Uzume RR4 (Adept) (pve)
+//notes: Payn: PvE: Season 23 sees the return of this sniper. It is good all around. If you want an ad clear sniper roll Lead from Gold or Discord with Incandescent. If you want a good champ killer, Fourth Times the Charm and either Explosive Payload or Vorpal. Vorpal of course also helps with Boss DPS. tags:pve
+dimwishlist:item=1891996599&perks=1840239774,106909392,1354429876,1546637391,744217850
+dimwishlist:item=1891996599&perks=1840239774,106909392,1354429876,3038247973,744217850
+dimwishlist:item=1891996599&perks=1840239774,106909392,3978468247,1546637391,744217850
+dimwishlist:item=1891996599&perks=1840239774,106909392,3978468247,3038247973,744217850
+dimwishlist:item=1891996599&perks=1840239774,106909392,1556840489,1546637391,744217850
+dimwishlist:item=1891996599&perks=1840239774,106909392,1556840489,3038247973,744217850
+
+
+// Loaded Question (Adept) (god-pve)
 //notes: Payn: Pve: This is the original Pinnacle drop Fusion Rifle. It was very good back in the day. I would look for this drop though I am very curious about the new perk Controlled Burst tags:god-pve
-dimwishlist:item=3125454907&perks=1482024992,689005463,3643424744,1427256713,744217850
+dimwishlist:item=2914913838&perks=1482024992,689005463,3643424744,1427256713,744217850
 
 
-// Loaded Question (pve)
+// Loaded Question (Adept) (god-pvp)
+//notes: Payn: PvP: Speaking of Controlled Burst... tags:god-pvp
+dimwishlist:item=2914913838&perks=1482024992,3868766766,1645158859,2594592626,744217850
+
+
+// Loaded Question (Adept) (pve)
 //notes: Payn: Pve: This is the original Pinnacle drop Fusion Rifle. It was very good back in the day. I would look for this drop though I am very curious about the new perk Controlled Burst tags:pve
-dimwishlist:item=3125454907&perks=1482024992,689005463,3643424744,1427256713,744217850
-dimwishlist:item=3125454907&perks=1482024992,689005463,3643424744,2594592626,744217850
+dimwishlist:item=2914913838&perks=1482024992,689005463,3643424744,1427256713,744217850
+dimwishlist:item=2914913838&perks=1482024992,689005463,3643424744,2594592626,744217850
+
+
+// Wendigo GL3 (Adept) (god-pve)
+//notes: Payn: Wendigo GL3--- Arc Heavy Grenade Launcher
+There are two main ways to run this. The first is add clear and is my favorite: tags:god-pve
+dimwishlist:item=3915197957&perks=3525010810,3301904089,2396489472,3194351027,744217850
+
+
+// Wendigo GL3 (Adept) (god-pve)
+//notes: Payn: The second is for DPS. In the first slot you can go either Auto Loading or Clown, I would suggest ALH, personally. tags:god-pve
+dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3751912585,744217850
+
+
+// Wendigo GL3 (Adept) (pve)
+//notes: Payn: The second is for DPS. In the first slot you can go either Auto Loading or Clown, I would suggest ALH, personally. tags:pve
+dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3751912585,744217850
+dimwishlist:item=3915197957&perks=3525010810,3301904089,2284787283,3751912585,744217850
+
