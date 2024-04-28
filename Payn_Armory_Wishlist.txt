@@ -2206,3 +2206,129 @@ dimwishlist:item=1941816543&perks=1482024992,3142289711,1195158366,2450788523,33
 dimwishlist:item=1941816543&perks=1482024992,106909392,1820235745,4104185692,3363267119
 dimwishlist:item=1941816543&perks=1482024992,106909392,3643424744,4104185692,3363267119
 
+// Nation of Beasts (god-pve)
+//notes: Payn: Once upon a time, before Vault of Glass came back, this was the poor man's Fatebringer since it was the only HC that could roll that Drangonfly/Explosive Payload combo. It can still do that but why run that over a Fatebringer if you have one? You could roll Kill Clip in that second slot if you like but I think the real money is in Dragonfly/Voltshot. tags:god-pve
+dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,2173046394,1489048135
+
+
+// Nation of Beasts (god-pvp)
+//notes: Payn: If you wanted a PvP roll, though there are much better 140s in this slot, load it with Range and run Opening Shot/Explosive Payload. tags:god-pvp
+dimwishlist:item=70083888&perks=1482024992,3142289711,47981717,3038247973,1489048135
+
+
+// Nation of Beasts (pve)
+//notes: Payn: Once upon a time, before Vault of Glass came back, this was the poor man's Fatebringer since it was the only HC that could roll that Drangonfly/Explosive Payload combo. It can still do that but why run that over a Fatebringer if you have one? You could roll Kill Clip in that second slot if you like but I think the real money is in Dragonfly/Voltshot.  tags:pve
+dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,2173046394,1489048135
+dimwishlist:item=70083888&perks=1482024992,106909392,2848615171,1015611457,1489048135
+
+
+// Age-Old Bond (god-pve)
+//notes: Payn: This gun is absolutely loaded with perks. There really isn't a bad combo on the gun. If you wanted to roll Dragonfly in the first column and pair it with Golden Tricorn or Destablizing Rounds or Target Lock, go for it. At the end of the day though, I have to give the edge to Repulsor Brace and Destabalizing Rounds. These two perks go together very well and you only see them on two guns currently. tags:god-pve
+dimwishlist:item=424291879&perks=4090651448,106909392,776531651,2048641572,1489048135
+
+
+// Age-Old Bond (pve)
+//notes: Payn: This gun is absolutely loaded with perks. There really isn't a bad combo on the gun. If you wanted to roll Dragonfly in the first column and pair it with Golden Tricorn or Destablizing Rounds or Target Lock, go for it. At the end of the day though, I have to give the edge to Repulsor Brace and Destabalizing Rounds. These two perks go together very well and you only see them on two guns currently. tags:pve
+dimwishlist:item=424291879&perks=4090651448,106909392,776531651,2048641572,1489048135
+dimwishlist:item=424291879&perks=4090651448,106909392,776531651,2610012052,1489048135
+dimwishlist:item=424291879&perks=4090651448,106909392,776531651,365154968,1489048135
+dimwishlist:item=424291879&perks=4090651448,106909392,2848615171,2048641572,1489048135
+dimwishlist:item=424291879&perks=4090651448,106909392,2848615171,2610012052,1489048135
+dimwishlist:item=424291879&perks=4090651448,106909392,2848615171,365154968,1489048135
+
+
+// Chattering Bone (god-pve)
+//notes: Payn: PvE- I am going with the unicorn of Kill Clip and Kinetic Tremors. With Kill Clip being in the first column, there are a number of great perks in the second column you can go with. You can roll rampage, harmony, or even focused fury. This is what I am going for: tags:god-pve
+dimwishlist:item=501329015&perks=4090651448,1087426260,1015611457,3891536761,1489048135
+
+
+// Chattering Bone (god-pvp)
+//notes: Payn: PvP: We have the return of the epic combo that was only ever found on the old Bygones pulse: Kill Clip and Headseeker. With Headseekers recent buff, this will be a monster. You could also craft Rangefinder or Rapid Hit in the first column and Rampage or Elemental Capacitor in the second if you are running a void or stasis subclass. Those are all great rolls but I think Headseeker does wonders for the 450s. tags:god-pvp
+dimwishlist:item=501329015&perks=839105230,3142289711,1015611457,460017080,1489048135
+
+
+// Chattering Bone (pve)
+//notes: Payn: PvE- I am going with the unicorn of Kill Clip and Kinetic Tremors. With Kill Clip being in the first column, there are a number of great perks in the second column you can go with. You can roll rampage, harmony, or even focused fury. This is what I am going for: tags:pve
+dimwishlist:item=501329015&perks=4090651448,1087426260,1015611457,3891536761,1489048135
+dimwishlist:item=501329015&perks=4090651448,1087426260,1015611457,438098033,1489048135
+dimwishlist:item=501329015&perks=4090651448,1087426260,1015611457,3425386926,1489048135
+dimwishlist:item=501329015&perks=4090651448,1087426260,1015611457,2896038713,1489048135
+
+
+// Chattering Bone (pvp)
+//notes: Payn: PvP: We have the return of the epic combo that was only ever found on the old Bygones pulse: Kill Clip and Headseeker. With Headseekers recent buff, this will be a monster. You could also craft Rangefinder or Rapid Hit in the first column and Rampage or Elemental Capacitor in the second if you are running a void or stasis subclass. Those are all great rolls but I think Headseeker does wonders for the 450s. tags:pvp
+dimwishlist:item=501329015&perks=839105230,3142289711,1015611457,460017080,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,1015611457,3425386926,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,1015611457,3511092054,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,2846385770,460017080,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,2846385770,3425386926,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,2846385770,3511092054,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,247725512,460017080,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,247725512,3425386926,1489048135
+dimwishlist:item=501329015&perks=839105230,3142289711,247725512,3511092054,1489048135
+
+
+// Apex Predator (god-pve)
+//notes: Payn: There are two versions of this that I would suggest, one that is oriented toward DPS and one for ad clear. For DPS, I am going Reconstruction and Bait and Switch. I know Bi-Pod exists but it drastically reduces all the stats you want on the rocket and I'm not putting my faith in that for DPS just yet. If someone comes out with numbers that prove me wrong, I'll change. DPS: tags:god-pve
+dimwishlist:item=1851777734&perks=3798852852,3796465595,1523832109,3078487919,1489048135
+
+
+// Apex Predator (god-pve)
+//notes: Payn: Ad Clear tags:god-pve
+dimwishlist:item=1851777734&perks=3798852852,3796465595,4293542123,3194351027,1489048135
+
+
+// The Supremacy (god-pve)
+//notes: Payn: Rapid Fire scouts received a nice buff in season 21. But even with that, I don't think they are optimal for DPS with the exception of the Exotic Cloud Strike. If you were stubborn and really wanted a DPS version of Supremacy, I guess you could go with Rewind Rounds and with Focused Fury or Bait and Switch. I am leaning into a PvE roll that would be good with ad clear and possibly good for Champ content when snipers come back around, though, in reality, I probably won't be crafting this. For the three monsters who still use rapid fire snipers in the crucible, Snapshot/Opening Shot is your friend.
+PvE: tags:god-pve
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,3891536761,1489048135
+
+
+// The Supremacy (god-pvp)
+//notes: Payn: For the three monsters who still use rapid fire snipers in the crucible, Snapshot/Opening Shot is your friend. tags:god-pvp
+dimwishlist:item=2884596447&perks=1482024992,1885400500,957782887,47981717,1489048135
+
+
+// The Supremacy (pve)
+//notes: Payn: Rapid Fire scouts received a nice buff in season 21. But even with that, I don't think they are optimal for DPS with the exception of the Exotic Cloud Strike. If you were stubborn and really wanted a DPS version of Supremacy, I guess you could go with Rewind Rounds and with Focused Fury or Bait and Switch. I am leaning into a PvE roll that would be good with ad clear and possibly good for Champ content when snipers come back around, though, in reality, I probably won't be crafting this. 
+PvE: tags:pve
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,3891536761,1489048135
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,2896038713,1489048135
+dimwishlist:item=2884596447&perks=1482024992,1087426260,3418782618,3078487919,1489048135
+
+
+// Tyranny of Heaven (god-pve)
+//notes: Payn: PvE: Nice little Unicron here. tags:god-pve
+dimwishlist:item=3388655311&perks=852209214,3827198035,3365897133,4293542123,1489048135
+
+
+// Techeun Force (god-pve)
+//notes: Payn: PvE: There are a ton of really interesting rolls here. Kill Clip Drops in the first column. You could pair that with Golden Tricorn for double damage perks. I am also, once again, intrigued by Controlled Burst. tags:god-pve
+dimwishlist:item=3591141932&perks=1482024992,3868766766,1523832109,2594592626,1489048135
+
+
+// Techeun Force (pve)
+//notes: Payn: PvE: There are a ton of really interesting rolls here. Kill Clip Drops in the first column. You could pair that with Golden Tricorn for double damage perks. I am also, once again, intrigued by Controlled Burst. tags:pve
+dimwishlist:item=3591141932&perks=1482024992,3868766766,1523832109,2594592626,1489048135
+dimwishlist:item=3591141932&perks=1482024992,3868766766,1523832109,2610012052,1489048135
+dimwishlist:item=3591141932&perks=1482024992,3868766766,1015611457,2594592626,1489048135
+dimwishlist:item=3591141932&perks=1482024992,3868766766,1015611457,2610012052,1489048135
+
+
+// Transfiguration (god-pve)
+//notes: Payn: This is a high impact scout and has some really good PvE rolls. I wouldn't craft it for PvP but if you really wanted to, I guess you could opt for something like Rapid Hit and Kill Clip which wouldn't change the TTK but would make it more forgiving, probably something like 2 crits and 1 body instead of the normal 3 crits needed for the kill. 
+For PvE, it has some unicorn rolls. You can go all out and roll Rampage and Kill Clip which will be even easier to proc together now since KC is now refreshable. You could also go Rampage and Kinetic Tremors which I think is a top roll. If you missed out on an Adept Hung Jury from GMs, I would go with the Kinetic Tremors roll. For everyone else, Rampage and Explosive Payload will serve you very well, especially is Champion Content when Scouts are on the Artifact. tags:god-pve
+dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,3038247973,1489048135
+
+
+// Transfiguration (god-pvp)
+//notes: Payn: This is a high impact scout and has some really good PvE rolls. I wouldn't craft it for PvP but if you really wanted to, I guess you could opt for something like Rapid Hit and Kill Clip which wouldn't change the TTK but would make it more forgiving, probably something like 2 crits and 1 body instead of the normal 3 crits needed for the kill. 
+For PvE, it has some unicorn rolls. You can go all out and roll Rampage and Kill Clip which will be even easier to proc together now since KC is now refreshable. You could also go Rampage and Kinetic Tremors which I think is a top roll. If you missed out on an Adept Hung Jury from GMs, I would go with the Kinetic Tremors roll. For everyone else, Rampage and Explosive Payload will serve you very well, especially is Champion Content when Scouts are on the Artifact. tags:god-pvp
+dimwishlist:item=3885259140&perks=1482024992,3142289711,247725512,1015611457,1489048135
+
+
+// Transfiguration (pve)
+//notes: Payn: This is a high impact scout and has some really good PvE rolls. I wouldn't craft it for PvP but if you really wanted to, I guess you could opt for something like Rapid Hit and Kill Clip which wouldn't change the TTK but would make it more forgiving, probably something like 2 crits and 1 body instead of the normal 3 crits needed for the kill. 
+For PvE, it has some unicorn rolls. You can go all out and roll Rampage and Kill Clip which will be even easier to proc together now since KC is now refreshable. You could also go Rampage and Kinetic Tremors which I think is a top roll. If you missed out on an Adept Hung Jury from GMs, I would go with the Kinetic Tremors roll. For everyone else, Rampage and Explosive Payload will serve you very well, especially is Champion Content when Scouts are on the Artifact. tags:pve
+dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,3038247973,1489048135
+dimwishlist:item=3885259140&perks=1482024992,106909392,3425386926,1015611457,1489048135
