@@ -2041,3 +2041,168 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692,15
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,3108830275,1536798515
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515,1536798515
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,2209918983,1536798515
+
+// Forbearance (god-pve)
+//notes: Payn: PvE--- There are a number of ways you can roll this. First column you can roll with Stats for All, Unrelenting or Ambitious Assassin and the in the second column you can roll Tricorn, One for All, Rampage, or Chain Reaction. I crafted mine like this and absolutely love it. I believe it to be the best roll possible. tags:god-pve
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472,3363267119
+
+
+// Forbearance (pve)
+//notes: Payn: PvE--- There are a number of ways you can roll this. First column you can roll with Stats for All, Unrelenting or Ambitious Assassin and the in the second column you can roll Tricorn, One for All, Rampage, or Chain Reaction. I crafted mine like this and absolutely love it. I believe it to be the best roll possible. tags:pve
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,4049631843,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,3425386926,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2610012052,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,1583705720,2396489472,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,1583705720,4049631843,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,1583705720,3425386926,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,1583705720,2610012052,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,2396489472,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,4049631843,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,3425386926,3363267119
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,2610012052,3363267119
+
+
+// Deliverance (god-pve)
+//notes: Payn: PvE- This is one I highly recommend to craft as it will be invaluable for anything with Champs. 
+ tags:god-pve
+dimwishlist:item=768621510&perks=4090651448,3868766766,3523296417,2978966579,3363267119
+
+
+// Cataclysmic (god-pve)
+//notes: Payn: PvE: Legit one of the best Linears in the game. One way to go. tags:god-pve
+dimwishlist:item=999767358&perks=4090651448,689005463,1354429876,3078487919,3363267119
+
+
+// Lubrae's Ruin (god-pve)
+//notes: Payn: PvE Unicorn--- Most glaives do the same thing. I would craft this with Bait and Switch since it is the only one that can roll with that perk. tags:god-pve
+dimwishlist:item=2534546147&perks=580685494,3721627275,2209918983,3078487919,3363267119
+
+
+// Insidious (god-pve)
+//notes: Payn: PvE- You can go a lot of different ways with this one as well. In the first column dragonfly, stats for all, rapid hit, demo are all good. In the second, Rampage, Adrenaline Junkie, One for all, and if you want a champ killer, vorpal weapon. I went like this but you can't go wrong with anything listed: tags:god-pve
+dimwishlist:item=3428521585&perks=839105230,106909392,2848615171,3425386926,3363267119
+
+
+// Insidious (god-pvp)
+//notes: Payn: PvP- You could opt for more range if you like but I went stability. tags:god-pvp
+dimwishlist:item=3428521585&perks=839105230,3177308360,247725512,3425386926,3363267119
+
+
+// Insidious (pve)
+//notes: Payn: PvE- You can go a lot of different ways with this one as well. In the first column dragonfly, stats for all, rapid hit, demo are all good. In the second, Rampage, Adrenaline Junkie, One for all, and if you want a champ killer, vorpal weapon. I went like this but you can't go wrong with anything listed: tags:pve
+dimwishlist:item=3428521585&perks=839105230,106909392,2848615171,3425386926,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,2848615171,11612903,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,2848615171,4049631843,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,2848615171,1546637391,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,1583705720,3425386926,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,1583705720,11612903,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,1583705720,4049631843,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,1583705720,1546637391,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,247725512,3425386926,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,247725512,11612903,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,247725512,4049631843,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,247725512,1546637391,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,3523296417,3425386926,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,3523296417,11612903,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,3523296417,4049631843,3363267119
+dimwishlist:item=3428521585&perks=839105230,106909392,3523296417,1546637391,3363267119
+
+
+// Submission (god-pve)
+//notes: Payn: PvE—- You could also roll with Overflow in the first column. Its one of the initial perks so no leveling required. tags:god-pve
+dimwishlist:item=3886416794&perks=1482024992,106909392,1820235745,4104185692,3363267119
+
+
+// Submission (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=3886416794&perks=1482024992,3142289711,1195158366,2450788523,3363267119
+
+
+// Submission (pve)
+//notes: Payn: PvE—- You could also roll with Overflow in the first column. Its one of the initial perks so no leveling required. tags:pve
+dimwishlist:item=3886416794&perks=1482024992,106909392,1820235745,4104185692,3363267119
+dimwishlist:item=3886416794&perks=1482024992,106909392,3643424744,4104185692,3363267119
+
+// Forbearance Adept (god-pve)
+//notes: Payn: PvE--- There are a number of ways you can roll this. First column you can roll with Stats for All, Unrelenting or Ambitious Assassin and the in the second column you can roll Tricorn, One for All, Rampage, or Chain Reaction. I crafted mine like this and absolutely love it. I believe it to be the best roll possible. tags:god-pve
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472,3363267119
+
+
+// Forbearance Adept (pve)
+//notes: Payn: PvE--- There are a number of ways you can roll this. First column you can roll with Stats for All, Unrelenting or Ambitious Assassin and the in the second column you can roll Tricorn, One for All, Rampage, or Chain Reaction. I crafted mine like this and absolutely love it. I believe it to be the best roll possible. tags:pve
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,4049631843,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,3425386926,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2610012052,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,1583705720,2396489472,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,1583705720,4049631843,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,1583705720,3425386926,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,1583705720,2610012052,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3108830275,2396489472,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3108830275,4049631843,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3108830275,3425386926,3363267119
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3108830275,2610012052,3363267119
+
+
+// Deliverance Adept (god-pve)
+//notes: Payn: PvE- This is one I highly recommend to craft as it will be invaluable for anything with Champs. 
+ tags:god-pve
+dimwishlist:item=2943293195&perks=4090651448,3868766766,3523296417,2978966579,3363267119
+
+
+// Cataclysmic Adept (god-pve)
+//notes: Payn: PvE: Legit one of the best Linears in the game. One way to go. tags:god-pve
+dimwishlist:item=2886339027&perks=4090651448,689005463,1354429876,3078487919,3363267119
+
+
+// Lubrae's Ruin Adept (god-pve)
+//notes: Payn: PvE Unicorn--- Most glaives do the same thing. I would craft this with Bait and Switch since it is the only one that can roll with that perk. tags:god-pve
+dimwishlist:item=1466006054&perks=580685494,3721627275,2209918983,3078487919,3363267119
+
+
+// Insidious Adept (god-pve)
+//notes: Payn: PvE- You can go a lot of different ways with this one as well. In the first column dragonfly, stats for all, rapid hit, demo are all good. In the second, Rampage, Adrenaline Junkie, One for all, and if you want a champ killer, vorpal weapon. I went like this but you can't go wrong with anything listed: tags:god-pve
+dimwishlist:item=786352912&perks=839105230,106909392,2848615171,3425386926,3363267119
+
+
+// Insidious Adept (god-pvp)
+//notes: Payn: PvP- You could opt for more range if you like but I went stability. tags:god-pvp
+dimwishlist:item=786352912&perks=839105230,3177308360,247725512,3425386926,3363267119
+
+
+// Insidious Adept (pve)
+//notes: Payn: PvE- You can go a lot of different ways with this one as well. In the first column dragonfly, stats for all, rapid hit, demo are all good. In the second, Rampage, Adrenaline Junkie, One for all, and if you want a champ killer, vorpal weapon. I went like this but you can't go wrong with anything listed: tags:pve
+dimwishlist:item=786352912&perks=839105230,106909392,2848615171,3425386926,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,2848615171,11612903,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,2848615171,4049631843,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,2848615171,1546637391,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,1583705720,3425386926,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,1583705720,11612903,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,1583705720,4049631843,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,1583705720,1546637391,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,247725512,3425386926,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,247725512,11612903,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,247725512,4049631843,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,247725512,1546637391,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,3523296417,3425386926,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,3523296417,11612903,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,3523296417,4049631843,3363267119
+dimwishlist:item=786352912&perks=839105230,106909392,3523296417,1546637391,3363267119
+
+
+// Submission Adept (god-pve)
+//notes: Payn: PvE—- You could also roll with Overflow in the first column. Its one of the initial perks so no leveling required. tags:god-pve
+dimwishlist:item=1941816543&perks=1482024992,106909392,1820235745,4104185692,3363267119
+
+
+// Submission Adept (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=1941816543&perks=1482024992,3142289711,1195158366,2450788523,3363267119
+
+
+// Submission Adept (pve)
+//notes: Payn: PvE—- You could also roll with Overflow in the first column. Its one of the initial perks so no leveling required. tags:pve
+dimwishlist:item=1941816543&perks=1482024992,106909392,1820235745,4104185692,3363267119
+dimwishlist:item=1941816543&perks=1482024992,106909392,3643424744,4104185692,3363267119
+
