@@ -800,5 +800,199 @@ dimwishlist:item=3998080529&perks=4090651448,3142289711,588594999,1015611457
 For PvP, it's not bad. A great 40 zoom value puts it in line with something like Beloved. I would craft it like this: tags:god-pvp
 dimwishlist:item=4132072834&perks=1840239774,3142289711,3619207468,47981717
 
+// Rapacious Appetite (god-pvp)
+//notes: Payn: PVP: If you missed out on the Immortal from trials, this will be a good replacement, if not better since it is craftable. I will be crafting this roll. tags:god-pvp
+dimwishlist:item=1081724548&perks=1482024992,1885400500,1195158366,365154968
+
+
+// Rapacious Appetite (god-pve)
+//notes: Payn: PvE: If you needed a pve stasis smg, I guess you could go with this one. tags:god-pve
+dimwishlist:item=1081724548&perks=1482024992,1087426260,1428297954,124408337
+
+
+// Just in Case (god-pve)
+//notes: Payn: There are better swords. tags:god-pve
+dimwishlist:item=1139727256&perks=938542991,52780822,3108830275,4293542123
+
+
+// Sole Survivor (god-pve)
+//notes: Payn: PvE: Once upon a time, this was one of the best DPS options for Snipers since it was the only Sniper that Firing Line rolled on. It has now been power crept and isn't really worth it in my opinion. Succession from DSC does what this does but better. tags:god-pve
+dimwishlist:item=1150492185&perks=4090651448,1087426260,1556840489,1771339417
+
+
+// Combined Action (god-pvp)
+//notes: Payn: PvP: There are a couple of interesting rolls here. Tunnel Vision and Kill Clip always works. I am more interested in Zen Moment and either Timed Payload or Kill Clip though. As a side note, there is no reason to run this in PvE while Nation of Beasts exists. tags:god-pvp
+dimwishlist:item=1331824604&perks=4090651448,3142289711,2387244414,1954620775
+
+
+// Combined Action (pvp)
+//notes: Payn: PvP: There are a couple of interesting rolls here. Tunnel Vision and Kill Clip always works. I am more interested in Zen Moment and either Timed Payload or Kill Clip though. As a side note, there is no reason to run this in PvE while Nation of Beasts exists. tags:pvp
+dimwishlist:item=1331824604&perks=4090651448,3142289711,2387244414,1954620775
+dimwishlist:item=1331824604&perks=4090651448,3142289711,2387244414,1015611457
+dimwishlist:item=1331824604&perks=4090651448,3142289711,2946784966,1954620775
+dimwishlist:item=1331824604&perks=4090651448,3142289711,2946784966,1015611457
+
+
+// Outlast (god-pvp)
+//notes: Payn: PvP: This was one of my favorites from this group. It was good in PvP back then and that was before Rapid Fire Pulses were META. With its new perk pool I would roll it like this though Rangefinder or Keep Away in the first slot would be good too. tags:god-pvp
+dimwishlist:item=1678205741&perks=839105230,1885400500,1195158366,1015611457
+
+
+// Outlast (god-pve)
+//notes: Payn: PvE: If you wanted it for PvE tags:god-pve
+dimwishlist:item=1678205741&perks=839105230,1885400500,1583705720,2848615171
+
+
+// Outlast (pvp)
+//notes: Payn: PvP: This was one of my favorites from this group. It was good in PvP back then and that was before Rapid Fire Pulses were META. With its new perk pool I would roll it like this though Rangefinder or Keep Away in the first slot would be good too. tags:pvp
+dimwishlist:item=1678205741&perks=839105230,1885400500,1195158366,1015611457
+dimwishlist:item=1678205741&perks=839105230,1885400500,2846385770,1015611457
+dimwishlist:item=1678205741&perks=839105230,1885400500,3619207468,1015611457
+
+
+// A Distant Pull (god-pve)
+//notes: Payn: PvE: Anything this can do, I think the Thoughtless sniper can do better. It does roll with Explosive Payload if you want to go that route. Another one I'd probably stay away from. If you wanted a PvE roll... tags:god-pve
+dimwishlist:item=1769847435&perks=4090651448,106909392,3643424744,124408337
+
+
+// A Distant Pull (god-pvp)
+//notes: Payn: PvP: I think this is actually a better PvP sniper though the Rapid Fires are in a rough place. tags:god-pvp
+dimwishlist:item=1769847435&perks=4090651448,3142289711,588594999,47981717
+
+
+// A Distant Pull (pve)
+//notes: Payn: PvE: Anything this can do, I think the Thoughtless sniper can do better. It does roll with Explosive Payload if you want to go that route. Another one I'd probably stay away from. If you wanted a PvE roll... tags:pve
+dimwishlist:item=1769847435&perks=4090651448,106909392,3643424744,124408337
+dimwishlist:item=1769847435&perks=4090651448,106909392,3643424744,3038247973
+
+
+// Bug-Out Bag (god-pve)
+//notes: Payn: PvE: I highly recommend this gun ONLY IF you missed at crafting the Calus Minitool. The Minitool destroys this in every category. But this is a good replacement if you missed out on that gun. I would stay away from it in PvP as Adaptives are kinda trash right now. tags:god-pve
+dimwishlist:item=2832639510&perks=1482024992,1087426260,1820235745,4293542123
+
+
+// Until Its Return (god-pve)
+//notes: Payn: PvE: I really don't like rapid fire shot guns. And with this being strand, you are sacrificing damage. I would really stay away. It is a waste of crafting materials. If you really wanted it maybe go... tags:god-pve
+dimwishlist:item=2883484461&perks=1482024992,106909392,3643424744,2360754333
+
+
+// Different Times (god-pve)
+//notes: Payn: PvE: First Strand Pulse Rifle and there are some really good perks on here. Again, with Strand and Stasis guns doing 10% less damage in PvE, I can't suggest running anything other than the synergistic perks that they roll with. tags:god-pve
+dimwishlist:item=3016891299&perks=1482024992,1885400500,1820235745,831391274
+
+
+// Different Times (god-pvp)
+//notes: Payn: PvP: It is a bit more interesting in PvP, a lot of great perks here. There are a couple of nice consistency perks in the first slot, Moving Target or Heating Up. You could also go with the tried and true Outlaw. In the second slot we have Golden Tricorn or Multi Kill Clip for damage or Headseeker for Consistency. He is what I will end up crafting tags:god-pvp
+dimwishlist:item=3016891299&perks=839105230,1885400500,588594999,460017080
+
+
+// Different Times (pvp)
+//notes: Payn: PvP: It is a bit more interesting in PvP, a lot of great perks here. There are a couple of nice consistency perks in the first slot, Moving Target or Heating Up. You could also go with the tried and true Outlaw. In the second slot we have Golden Tricorn or Multi Kill Clip for damage or Headseeker for Consistency. He is what I will end up crafting tags:pvp
+dimwishlist:item=3016891299&perks=839105230,1885400500,588594999,460017080
+dimwishlist:item=3016891299&perks=839105230,1885400500,588594999,2610012052
+dimwishlist:item=3016891299&perks=839105230,1885400500,588594999,2458213969
+dimwishlist:item=3016891299&perks=839105230,1885400500,1570042021,460017080
+dimwishlist:item=3016891299&perks=839105230,1885400500,1570042021,2610012052
+dimwishlist:item=3016891299&perks=839105230,1885400500,1570042021,2458213969
+dimwishlist:item=3016891299&perks=839105230,1885400500,1168162263,460017080
+dimwishlist:item=3016891299&perks=839105230,1885400500,1168162263,2610012052
+dimwishlist:item=3016891299&perks=839105230,1885400500,1168162263,2458213969
+
+
+// Laser Painter (god-pve)
+//notes: Payn: PvE: Look. I hate Gambit. If you like it, then maybe you play it and this drops for you. In my opinion, its not worth it. Many more Linears will beat this thing though I guess a Strand Surge could make it somewhat useful. 12 perks per slot is still rough though. IN the first column, Rapid Hit, Auto Loading, or Clown Cartridge is good. Second column, Focused Fury, Vorpal, Box Breathing... take your pick. tags:god-pve
+dimwishlist:item=3221722018&perks=1482024992,689005463,247725512,2896038713
+
+
+// Laser Painter (pve)
+//notes: Payn: PvE: Look. I hate Gambit. If you like it, then maybe you play it and this drops for you. In my opinion, its not worth it. Many more Linears will beat this thing though I guess a Strand Surge could make it somewhat useful. 12 perks per slot is still rough though. IN the first column, Rapid Hit, Auto Loading, or Clown Cartridge is good. Second column, Focused Fury, Vorpal, Box Breathing... take your pick. tags:pve
+dimwishlist:item=3221722018&perks=1482024992,689005463,247725512,2896038713
+dimwishlist:item=3221722018&perks=1482024992,689005463,247725512,2551157718
+dimwishlist:item=3221722018&perks=1482024992,689005463,247725512,1546637391
+dimwishlist:item=3221722018&perks=1482024992,689005463,3300816228,2896038713
+dimwishlist:item=3221722018&perks=1482024992,689005463,3300816228,2551157718
+dimwishlist:item=3221722018&perks=1482024992,689005463,3300816228,1546637391
+dimwishlist:item=3221722018&perks=1482024992,689005463,2284787283,2896038713
+dimwishlist:item=3221722018&perks=1482024992,689005463,2284787283,2551157718
+dimwishlist:item=3221722018&perks=1482024992,689005463,2284787283,1546637391
+
+
+// Spare Rations (god-pvp)
+//notes: Payn: PVP This was at one time the god of the crucible and it comes back to us with the same roll. tags:god-pvp
+dimwishlist:item=3236112986&perks=1482024992,1561002382,247725512,1015611457
+
+
+// Spare Rations (god-pve)
+//notes: Payn: PvE: You could go with the roll above but I am interested in Subsistence and Kinetic Tremors. tags:god-pve
+dimwishlist:item=3236112986&perks=1482024992,1087426260,1820235745,3891536761
+
+
+// Randy's Throwing Knife (god-pvp)
+//notes: Payn: PvP: This is an old Pinnacle drop. It was good back in the day with a static roll. 12 perks in each column is going to be rough. For PvP I would go... tags:god-pvp
+dimwishlist:item=3292795429&perks=1482024992,1561002382,2387244414,1015611457
+
+
+// Randy's Throwing Knife (god-pve)
+//notes: Payn: PvE: There are a number of good rolls for PvE. Pugilist and Rapid Hit in the first column and great perks like Rampage, Kill Clip, and Boxed Breathing in the second. It also roll Kinetic Tremors so if you missed out on Hung Jury... tags:god-pve
+dimwishlist:item=3292795429&perks=1482024992,1087426260,247725512,3891536761
+
+
+// Randy's Throwing Knife (pve)
+//notes: Payn: PvE: There are a number of good rolls for PvE. Pugilist and Rapid Hit in the first column and great perks like Rampage, Kill Clip, and Boxed Breathing in the second. It also roll Kinetic Tremors so if you missed out on Hung Jury... tags:pve
+dimwishlist:item=3292795429&perks=1482024992,1087426260,247725512,3891536761
+dimwishlist:item=3292795429&perks=1482024992,1087426260,247725512,2551157718
+dimwishlist:item=3292795429&perks=1482024992,1087426260,247725512,1015611457
+dimwishlist:item=3292795429&perks=1482024992,1087426260,247725512,3425386926
+dimwishlist:item=3292795429&perks=1482024992,1087426260,691659142,3891536761
+dimwishlist:item=3292795429&perks=1482024992,1087426260,691659142,2551157718
+dimwishlist:item=3292795429&perks=1482024992,1087426260,691659142,1015611457
+dimwishlist:item=3292795429&perks=1482024992,1087426260,691659142,3425386926
+
+
+// Targeted Redaction (god-pve)
+//notes: Payn: PvE: Its the only HC that Destabalizing Rounds rolls on. So there is that. tags:god-pve
+dimwishlist:item=3890055324&perks=4090651448,106909392,1168162263,2048641572
+
+
+// Targeted Redaction (god-pvp)
+//notes: Payn: PvP: If you missed out on the Gambit Bottom Dollar, this could be a good second to that. tags:god-pvp
+dimwishlist:item=3890055324&perks=4090651448,3177308360,1168162263,3038247973
+
+
+// Thin Precipice (god-pve)
+//notes: Payn: PvE: First of its kind. Synergy with strand is the way to go. I'm also a fan of Unrelenting in the First column. tags:god-pve
+dimwishlist:item=4066778670&perks=938542991,52780822,1749209109,831391274
+
+
+// Last Man Standing (god-pve)
+//notes: Payn: PvE: There are a number of rolls you could go for. Pugilst and Threat Detector both roll in the fist slot and in the second slot you have things like One-Two punch, Swash, and One for All. Personally, I will be looking for this: tags:god-pve
+dimwishlist:item=4287947559&perks=4090651448,791862061,1820235745,3425386926
+
+
+// Last Man Standing (god-pvp)
+//notes: Payn:PvP: They kinda did PvP players dirty with this one and put both Threat Detector and Opening Shot in the same column. Because of that, we have to rely on something else in that second slot. I would give the new perk Discord a shot. tags:god-pvp
+dimwishlist:item=4287947559&perks=4090651448,3142289711,47981717,3978468247
+
+
+// Last Man Standing (pve)
+//notes: Payn: PvE: There are a number of rolls you could go for. Pugilst and Threat Detector both roll in the fist slot and in the second slot you have things like One-Two punch, Swash, and One for All.  tags:pve
+dimwishlist:item=4287947559&perks=4090651448,791862061,1820235745,3425386926
+dimwishlist:item=4287947559&perks=4090651448,791862061,1820235745,4082225868
+dimwishlist:item=4287947559&perks=4090651448,791862061,1820235745,2679249093
+dimwishlist:item=4287947559&perks=4090651448,791862061,1820235745,4049631843
+dimwishlist:item=4287947559&perks=4090651448,791862061,691659142,3425386926
+dimwishlist:item=4287947559&perks=4090651448,791862061,691659142,4082225868
+dimwishlist:item=4287947559&perks=4090651448,791862061,691659142,2679249093
+dimwishlist:item=4287947559&perks=4090651448,791862061,691659142,4049631843
+dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,3425386926
+dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,4082225868
+dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,2679249093
+dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,4049631843
+
+
+// Last Man Standing (pvp)
+//notes: Payn:PvP: They kinda did PvP players dirty with this one and put both Threat Detector and Opening Shot in the same column. Because of that, we have to rely on something else in that second slot. I would give the new perk Discord a shot. tags:pvp
+dimwishlist:item=4287947559&perks=4090651448,3142289711,47981717,3978468247
+dimwishlist:item=4287947559&perks=4090651448,3142289711,4071163871,3978468247
 
 
