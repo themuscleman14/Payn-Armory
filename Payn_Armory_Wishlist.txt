@@ -1965,3 +1965,79 @@ dimwishlist:item=3107853529&perks=4090651448,1561002382,957782887,588594999,1905
 dimwishlist:item=3107853529&perks=4090651448,1561002382,957782887,588594999,1905044254
 dimwishlist:item=3107853529&perks=4090651448,1561002382,3436462433,588594999,1905044254
 dimwishlist:item=3107853529&perks=4090651448,1561002382,2866798147,588594999,1905044254
+
+// Under Your Skin (god-pve)
+//notes: Payn: PvE: This is one of my favorite bows for GM content. There are a number of ways you can construct it. Unrelenting can go in the first slot and if you need it, Adaptive Munitions can be crafted in the second. I prefer this though. tags:god-pve
+dimwishlist:item=232928045&perks=852209214,3429800428,201365942,3365897133,1536798515
+
+
+// Sweet Sorrow (god-pve)
+//notes: Payn: PvE: You can do a number of things with this. This is how I have mine set up though I prefer the Arc Auto from the Wellspring activity. You could also throw Vorpal on it if you prefer. tags:god-pve
+dimwishlist:item=1248372789&perks=839105230,1087426260,1583705720,4049631843,1536798515
+
+
+// Sweet Sorrow (god-pvp)
+//notes: Payn: PvP: tags:god-pvp
+dimwishlist:item=1248372789&perks=839105230,3142289711,1428297954,1890422124,1536798515
+
+
+// Sweet Sorrow (pve)
+//notes: Payn: PvE: You can do a number of things with this. This is how I have mine set up though I prefer the Arc Auto from the Wellspring activity. You could also throw Vorpal on it if you prefer. tags:pve
+dimwishlist:item=1248372789&perks=839105230,1087426260,1583705720,4049631843,1536798515
+dimwishlist:item=1248372789&perks=839105230,1087426260,1583705720,1546637391,1536798515
+
+
+// Piece of Mind (god-pve)
+//notes: Payn: PvE: You could also switch out Stats for All for Overflow and Adrenaline Junkie for Vorpal if you like. Vorpal is great for Champ content. I accidentally cut it off, but stability masterwork all the way. Stability MW tags:god-pve
+dimwishlist:item=2097055732&perks=839105230,1087426260,1583705720,11612903,1536798515
+
+
+// Piece of Mind (god-pvp)
+//notes: Payn: PvP: For here, I went with consistency. If you are a huge fan of running void or stasis subclass in PvP, Elemental Capacitor is great. You could also run Adrenaline Junkie if you wanted a damage perk. tags:god-pvp
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,588594999,1536798515
+
+
+// Piece of Mind (pve)
+//notes: Payn: PvE: You could also switch out Stats for All for Overflow and Adrenaline Junkie for Vorpal if you like. Vorpal is great for Champ content. I accidentally cut it off, but stability masterwork all the way. Stability MW tags:pve
+dimwishlist:item=2097055732&perks=839105230,1087426260,1583705720,11612903,1536798515
+dimwishlist:item=2097055732&perks=839105230,1087426260,1583705720,1546637391,1536798515
+dimwishlist:item=2097055732&perks=839105230,1087426260,3643424744,11612903,1536798515
+dimwishlist:item=2097055732&perks=839105230,1087426260,3643424744,1546637391,1536798515
+
+
+// Piece of Mind (pvp)
+//notes: Payn: PvP: For here, I went with consistency. If you are a huge fan of running void or stasis subclass in PvP, Elemental Capacitor is great. You could also run Adrenaline Junkie if you wanted a damage perk. tags:pvp
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,588594999,1536798515
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,3511092054,1536798515
+dimwishlist:item=2097055732&perks=839105230,1885400500,1428297954,11612903,1536798515
+
+
+// Thoughtless (god-pve)
+//notes: Payn: PvE: This is one of the only snipers that can roll overflow. For solo content, craft Focused Fury instead of Firing Line. Also, many people throw extended mag on snipers. Stop. Appended Mag adds the same number of bullets without the reload tanking. tags:god-pve
+dimwishlist:item=4067556514&perks=4090651448,1087426260,3643424744,1771339417,1536798515
+
+
+// Thoughtless (god-pvp)
+//notes: Payn: PvP: The only reason you would use this for PvP, other than you really like it, is Headstone. For gametypes that have revives, Headstone will encase the Ghost in ice and make the opponent break the ice before getting the revive. If you are a fan of Firmly Planted in the first slot, go for it. tags:god-pvp
+dimwishlist:item=4067556514&perks=1840239774,3142289711,1428297954,124408337,1536798515
+
+
+// Thoughtless (pvp)
+//notes: Payn: PvP: The only reason you would use this for PvP, other than you really like it, is Headstone. For gametypes that have revives, Headstone will encase the Ghost in ice and make the opponent break the ice before getting the revive. If you are a fan of Firmly Planted in the first slot, go for it. tags:pvp
+dimwishlist:item=4067556514&perks=1840239774,3142289711,1428297954,124408337,1536798515
+dimwishlist:item=4067556514&perks=1840239774,3142289711,280464955,124408337,1536798515
+
+
+// Explosive Personality (god-pve)
+//notes: Payn: PvE: This is craft to the build you are using. Genesis is good in the first slot. You can run almost all of the perks in the second slot that you want. I run mine like this. tags:god-pve
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,2610012052,1536798515
+
+
+// Explosive Personality (pve)
+//notes: Payn: PvE: This is craft to the build you are using. Genesis is good in the first slot. You can run almost all of the perks in the second slot that you want. I run mine like this. tags:pve
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,2610012052,1536798515
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843,1536798515
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692,1536798515
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,3108830275,1536798515
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515,1536798515
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,2209918983,1536798515
