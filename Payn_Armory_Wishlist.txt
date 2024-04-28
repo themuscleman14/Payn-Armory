@@ -2552,3 +2552,113 @@ dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,831391274,3186
 //notes: Payn: PvE- I want one that will jive with a strand build so Hatchling it is but I have one will Paracausal on it and it is just fine if you wanted to go with that. I also can't pass up Chain Reaction in the first column. tags:pve
 dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,831391274,3186078099
 dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,3215448563,3186078099
+
+// Zaouli's Bane (god-pve)
+//notes: Payn: PvE Unicorn tags:god-pve
+dimwishlist:item=431721920&perks=4090651448,106909392,3038247973,4293542123,120721526
+
+
+// Qullim's Terminus (god-pve)
+//notes: Payn: PvE- For Ad clear go with: tags:god-pve
+dimwishlist:item=1321506184&perks=1392496348,2420895100,1583705720,557221067,120721526
+
+
+// Qullim's Terminus (god-pve)
+//notes: Payn: PvE- If you wanted it for DPS I would go: tags:god-pve
+dimwishlist:item=1321506184&perks=1392496348,2420895100,2621346526,1771339417,120721526
+
+
+// Doom of Chelchis (god-pve)
+//notes: Payn: PvE--- For a good GM scout go with tags:god-pve
+dimwishlist:item=1937552980&perks=1482024992,106909392,3038247973,4104185692,120721526
+
+
+// Doom of Chelchis (god-pve)
+//notes: Payn: PvE Alt: tags:god-pve
+dimwishlist:item=1937552980&perks=1482024992,106909392,1546637391,2896038713,120721526
+
+
+// Doom of Chelchis (god-pve)
+//notes: Payn: PvE Unicorn with no real application other than explosions tags:god-pve
+dimwishlist:item=1937552980&perks=1482024992,106909392,3824105627,2848615171,120721526
+
+
+// Smite of Merain (god-pve)
+//notes: Payn: PvE--- This is very versatile. You can go a number of ways. Your all around good roll would be tags:god-pve
+dimwishlist:item=2221264583&perks=4090651448,106909392,3523296417,3824105627,120721526
+
+
+// Smite of Merain (god-pve)
+//notes: Payn: PvE Unicorn--- For a champ killer tags:god-pve
+dimwishlist:item=2221264583&perks=4090651448,106909392,2896038713,1546637391,120721526
+
+
+// Defiance of Yasmin (god-pve)
+//notes: Payn: PvE--- This is for group play. If you want a solo roll, swap the last perk to Vorpal. tags:god-pve
+dimwishlist:item=3228096719&perks=4090651448,106909392,1556840489,1771339417,120721526
+
+
+// Defiance of Yasmin (pve)
+//notes: Payn: PvE--- This is for group play. If you want a solo roll, swap the last perk to Vorpal. tags:pve
+dimwishlist:item=3228096719&perks=4090651448,106909392,1556840489,1771339417,120721526
+dimwishlist:item=3228096719&perks=4090651448,106909392,1556840489,1546637391,120721526
+
+
+// Midha's Reckoning (god-pve)
+//notes: Payn: PvE--- The one way to go on this that makes it truly unique is Reservoir Burst with the Runneth Over Raid perk. It will proc in all the overflowed rounds. tags:god-pve
+dimwishlist:item=3969066556&perks=4090651448,3868766766,3108830275,1427256713,120721526
+
+// Zaouli's Bane Adept (god-pve)
+//notes: Payn: PvE Unicorn tags:god-pve
+dimwishlist:item=291092617&perks=4090651448,106909392,3038247973,4293542123,120721526
+
+
+// Qullim's Terminus Adept (god-pve)
+//notes: Payn: PvE- For Ad clear go with: tags:god-pve
+dimwishlist:item=3248429089&perks=1392496348,2420895100,1583705720,557221067,120721526
+
+
+// Qullim's Terminus Adept (god-pve)
+//notes: Payn: PvE- If you wanted it for DPS I would go: tags:god-pve
+dimwishlist:item=3248429089&perks=1392496348,2420895100,2621346526,1771339417,120721526
+
+
+// Doom of Chelchis Adept (god-pve)
+//notes: Payn: PvE--- For a good GM scout go with tags:god-pve
+dimwishlist:item=1184692845&perks=1482024992,106909392,3038247973,4104185692,120721526
+
+
+// Doom of Chelchis Adept (god-pve)
+//notes: Payn: PvE Alt: tags:god-pve
+dimwishlist:item=1184692845&perks=1482024992,106909392,1546637391,2896038713,120721526
+
+
+// Doom of Chelchis Adept (god-pve)
+//notes: Payn: PvE Unicorn with no real application other than explosions tags:god-pve
+dimwishlist:item=1184692845&perks=1482024992,106909392,3824105627,2848615171,120721526
+
+
+// Smite of Merain Adept (god-pve)
+//notes: Payn: PvE--- This is very versatile. You can go a number of ways. Your all around good roll would be tags:god-pve
+dimwishlist:item=3407395594&perks=4090651448,106909392,3523296417,3824105627,120721526
+
+
+// Smite of Merain Adept (god-pve)
+//notes: Payn: PvE Unicorn--- For a champ killer tags:god-pve
+dimwishlist:item=3407395594&perks=4090651448,106909392,2896038713,1546637391,120721526
+
+
+// Defiance of Yasmin Adept (god-pve)
+//notes: Payn: PvE--- This is for group play. If you want a solo roll, swap the last perk to Vorpal. tags:god-pve
+dimwishlist:item=3503019618&perks=4090651448,106909392,1556840489,1771339417,120721526
+
+
+// Defiance of Yasmin Adept (pve)
+//notes: Payn: PvE--- This is for group play. If you want a solo roll, swap the last perk to Vorpal. tags:pve
+dimwishlist:item=3503019618&perks=4090651448,106909392,1556840489,1771339417,120721526
+dimwishlist:item=3503019618&perks=4090651448,106909392,1556840489,1546637391,120721526
+
+
+// Midha's Reckoning Adept (god-pve)
+//notes: Payn: PvE--- The one way to go on this that makes it truly unique is Reservoir Burst with the Runneth Over Raid perk. It will proc in all the overflowed rounds. tags:god-pve
+dimwishlist:item=3904516037&perks=4090651448,3868766766,3108830275,1427256713,120721526
