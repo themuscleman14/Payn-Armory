@@ -1696,4 +1696,165 @@ dimwishlist:item=3193598749&perks=4090651448,1885400500,2846385770,365154968,212
 dimwishlist:item=3193598749&perks=4090651448,1885400500,2846385770,365154968,2120661319
 dimwishlist:item=3193598749&perks=4090651448,1885400500,2846385770,1015611457,2120661319
 
+// Long Arm (god-pve)
+//notes: Payn: PvE tags:god-pve
+dimwishlist:item=8293111&perks=1482024992,106909392,3592538738,3038247973,2437618208
+
+
+// Long Arm (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=8293111&perks=1482024992,106909392,247725512,47981717,2437618208
+
+
+// Gunnora's Axe (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=411397829&perks=4090651448,3142289711,588594999,47981717,3989629871
+
+
+// Terminus Horizon (god-pve)
+//notes: Payn: PvE Unicorn tags:god-pve
+dimwishlist:item=487205709&perks=1392496348,2420895100,2848615171,2173046394,2437618208
+
+
+// Rose (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=882778888&perks=4090651448,3142289711,588594999,3038247973,3326204863
+
+
+// Aurvandil FR6 (god-pve)
+//notes: Payn: PvE Unicorn: tags:god-pve
+dimwishlist:item=963710795&perks=4090651448,689005463,1523832109,2978966579,2839173408
+
+
+// IKELOS_SG_v1.0.3 (god-pve)
+//notes: Payn: PVE tags:god-pve
+dimwishlist:item=1168625549&perks=4090651448,3142289711,1820235745,2360754333,566815328
+
+
+// IKELOS_HC_v1.0.3 (god-pve)
+//notes: Payn: You could also run Repulsor Brace in the last column, but honestly, other weapons do it better. tags:god-pve
+dimwishlist:item=1731355324&perks=4090651448,1140096971,1820235745,4104185692,566815328
+
+
+// Disparity (god-pve)
+//notes: Payn: PvE: If you are a fan of Rapid Hit instead of Outlaw, that is good as well.
+ tags:god-pve
+dimwishlist:item=1751893422&perks=839105230,106909392,1168162263,4104185692,192157151
+dimwishlist:item=1751893422&perks=839105230,106909392,247725512,4104185692,192157151
+
+
+// Disparity (god-pvp)
+//notes: Payn: PVP If you wanted to go the damage perk route, you would do this:
+ tags:god-pvp
+dimwishlist:item=1751893422&perks=839105230,3177308360,588594999,460017080,192157151
+
+
+// Disparity (god-pvp)
+//notes: Payn: PVP If you wanted to go the damage perk route, you would do this:
+ tags:god-pvp
+dimwishlist:item=1751893422&perks=839105230,3177308360,247725512,1015611457,192157151
+
+
+// IKELOS_SMG_v1.0.3 (god-pve)
+//notes: Payn: PvE tags:god-pve
+dimwishlist:item=2149683300&perks=4090651448,1140096971,2779035018,2173046394,566815328
+
+
+// IKELOS_SMG_v1.0.3 (god-pvp)
+//notes: Payn: PvP tags:god-pvp
+dimwishlist:item=2149683300&perks=4090651448,1140096971,1359896290,1890422124,566815328
+
+
+// IKELOS_SMG_v1.0.3 (god-pvp)
+//notes: Payn: PvP with lots of range, Range MW tags:god-pvp
+dimwishlist:item=2149683300&perks=4090651448,1140096971,2450788523,2846385770,566815328
+
+
+// Fire and Forget (god-pve)
+//notes: Payn: The first roll I am posting here is for general play and not necessarily for DPS in a raid or something. It is a unicorn and works great with stasis builds. Chill Clip is very unique on a three round burst Linear, the first shot slows, the second shot freezes, and the third shot shatters. Nothing else can do that in such a quick succession except maybe the Stasis Trace Rifle. tags:god-pve
+dimwishlist:item=2272041093&perks=839105230,689005463,124408337,2978966579,192157151
+
+
+// Fire and Forget (god-pve)
+//notes: Payn: PvE: For more general DPS scenarios. This guy kicks a lot. If you are still struggling with Stability, swap out Arrowhead Break for Polygonal Rifling. Also, Focused Fury is a great perk and can be taken over Vorpal here. tags:god-pve
+dimwishlist:item=2272041093&perks=839105230,689005463,2869569095,1546637391,3988215619
+
+
+// Fire and Forget (pve)
+//notes: Payn: PvE: For more general DPS scenarios. This guy kicks a lot. If you are still struggling with Stability, swap out Arrowhead Break for Polygonal Rifling. Also, Focused Fury is a great perk and can be taken over Vorpal here. tags:pve
+dimwishlist:item=2272041093&perks=839105230,689005463,2869569095,1546637391,3988215619
+dimwishlist:item=2272041093&perks=839105230,689005463,2869569095,2896038713,3988215619
+dimwishlist:item=2272041093&perks=1392496348,689005463,2869569095,1546637391,3988215619
+dimwishlist:item=2272041093&perks=1392496348,689005463,2869569095,2896038713,3988215619
+
+
+// IKELOS_SR_v1.0.3 (god-pve)
+//notes: Payn: PVE tags:god-pve
+dimwishlist:item=2302346155&perks=1482024992,1140096971,1354429876,2896038713,566815328
+
+
+// Wilderflight (god-pve)
+//notes: Payn: PvE tags:god-pve
+dimwishlist:item=2306182339&perks=1441682018,3301904089,776531651,1546637391,2437618208
+
+
+// Lodbrok-C (god-pve)
+//notes: Payn: PvE tags:god-pve
+dimwishlist:item=2328531378&perks=4090651448,1885400500,1774574192,365154968,1607056502
+
+
+// Prolonged Engagement (god-pve)
+//notes: Payn: This is my favorite weapon of the season. I have two that I am going between but have yet to get the god roll because 12 perks in both slots is stupid. PvE Roll One:  tags:god-pve
+dimwishlist:item=2349907931&perks=4090651448,1087426260,1820235745,4104185692,3988215619
+
+
+// Prolonged Engagement (god-pve)
+//notes: Payn: PvE Roll Two:  tags:god-pve
+dimwishlist:item=2349907931&perks=4090651448,1087426260,1820235745,365154968,3988215619
+
+
+// Path of Least Resistance (god-pve)
+//notes: Payn: PVE tags:god-pve
+dimwishlist:item=2827764482&perks=4090651448,732557052,1583705720,2173046394,192157151
+
+
+// Path of Least Resistance (god-pve)
+//notes: Payn: It should also be considered that adaptive munitions can roll in the first slot. If we have a trace rifle mod for champs come back around, it could be good. tags:god-pve
+dimwishlist:item=2827764482&perks=4090651448,732557052,1048183818,2173046394,192157151
+
+
+// Judgment of Kelgorath (god-pve)
+//notes: Payn: PVE tags:god-pve
+dimwishlist:item=2978226043&perks=580685494,3721627275,3523296417,4293542123,192157151
+
+
+// Judgment of Kelgorath (god-pve)
+//notes: Payn: Unicorn: This roll is exceptional with melee builds. tags:god-pve
+dimwishlist:item=2978226043&perks=580685494,3721627275,3523296417,1782407750,192157151
+
+
+// Retrofit Escapade (god-pve)
+//notes: Payn: PvE: Pair with volatile rounds and go brrrrrrrrrr   Works especially well with Hunters and Gyrfalcons tags:god-pve
+dimwishlist:item=3103325054&perks=1392496348,2420895100,1354429876,365154968,192157151
+
+
+// Liminal Vigil (god-pve)
+//notes: Payn: PvE tags:god-pve
+dimwishlist:item=3138208275&perks=4090651448,1087426260,124408337,1015611457,2437618208
+
+
+// Liminal Vigil (god-pvp)
+//notes: Payn: PvP Unicorn tags:god-pvp
+dimwishlist:item=3138208275&perks=4090651448,1561002382,1890422124,3047969693,2437618208
+
+
+// Tripwire Canary (god-pve)
+//notes: Payn: PVE tags:god-pve
+dimwishlist:item=3849444474&perks=852209214,3429800428,2848615171,4104185692,192157151
+
+
+// Tripwire Canary (god-pve)
+//notes: Payn: From time to time we get seasonal bow mods from the artifact and they are very good against champs. For a roll for GMs and other champ content I would do this: tags:god-pve
+dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,3365897133,192157151
+
 
